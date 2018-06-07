@@ -1,479 +1,477 @@
-Ficha;Receita/Plano Contabil;Descricao;Fte.Rec./Aplic.;Orcada;Prevista;Anterior;No Mes;TOTAL;(Arrec. - Orc.);(Arrec. - Prog.)
-;;;;;;;;;;
-    ;1000.00.0.0.00.00;RECEITAS CORRENTES;    ;       60141780.00;       20039241.08;       18633023.68;        5750351.48;       24383375.16;      -35758404.84;        4344134.08
-;;;;;;;;;;
-    ;1100.00.0.0.00.00;  IMPOSTOS, TAXAS E CONTRIBUICOES DE MELHORIA;    ;       11328000.00;        3774489.60;        2980893.47;        1640748.48;        4621641.95;       -6706358.05;         847152.35
-;;;;;;;;;;
-    ;1110.00.0.0.00.00;    IMPOSTOS;    ;       10800000.00;        3598560.00;        2921858.77;        1616586.28;        4538445.05;       -6261554.95;         939885.05
-;;;;;;;;;;
-    ;1113.00.0.0.00.00;      IMPOSTOS SOBRE A RENDA E PROVENTOS DE QUALQUER NATUREZA;    ;         800000.00;         266560.00;         140038.30;          51632.50;         191670.80;        -608329.20;         -74889.20
-;;;;;;;;;;
-    ;1113.03.0.0.00.00;        IMPOSTO SOBRE A RENDA - RETIDO NA FONTE;    ;         800000.00;         266560.00;         140038.30;          51632.50;         191670.80;        -608329.20;         -74889.20
-;;;;;;;;;;
-    ;1113.03.1.0.00.00;          IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - TRABALHO;    ;         700000.00;         233240.00;         117339.09;          47494.61;         164833.70;        -535166.30;         -68406.30
-   1;1113.03.1.1.00.00;            IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - TRABALHO - PRINCIPAL;   1;         700000.00;         233240.00;         117339.09;          47494.61;         164833.70;        -535166.30;         -68406.30
-;;;;;;;;;;
-    ;1113.03.4.0.00.00;          IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - OUTROS RENDIMENTOS;    ;         100000.00;          33320.00;          22699.21;           4137.89;          26837.10;         -73162.90;          -6482.90
-   2;1113.03.4.1.00.00;            IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - OUTROS RENDIMENTOS - PRINCIPAL;   1;         100000.00;          33320.00;          22699.21;           4137.89;          26837.10;         -73162.90;          -6482.90
-;;;;;;;;;;
-    ;1118.00.0.0.00.00;      IMPOSTOS ESPECIFICOS DE ESTADOS/DF MUNICIPIOS;    ;       10000000.00;        3332000.00;        2781820.47;        1564953.78;        4346774.25;       -5653225.75;        1014774.25
-;;;;;;;;;;
-    ;1118.01.0.0.00.00;        IMPOSTOS SOBRE O PATRIMONIO PARA ESTADOS/DF/MUNICIPIOS;    ;        2720000.00;         906304.00;         361005.38;          61070.86;         422076.24;       -2297923.76;        -484227.76
-;;;;;;;;;;
-    ;1118.01.1.0.00.00;          IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA;    ;        2320000.00;         773024.00;         187234.20;          34867.46;         222101.66;       -2097898.34;        -550922.34
-;;;;;;;;;;
-    ;1118.01.1.1.00.00;            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - PRINCIPAL;    ;        1600000.00;         533120.00;           3105.39;              0.00;           3105.39;       -1596894.61;        -530014.61
-   3;1118.01.1.1.00.01;                IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL URBANA - PRINCIPAL;   1;        1000000.00;         333200.00;           1643.94;              0.00;           1643.94;        -998356.06;        -331556.06
-   4;1118.01.1.1.00.02;                IMPOSTO SOBRE A PROPRIEDADE PREDIAL URBANA - PRINCIPAL;   1;         600000.00;         199920.00;           1461.45;              0.00;           1461.45;        -598538.55;        -198458.55
-   5;1118.01.1.2.00.00;            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - MULTAS E JUROS;   1;          20000.00;           6664.00;           2111.27;              0.00;           2111.27;         -17888.73;          -4552.73
-   6;1118.01.1.3.00.00;            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - DIVIDA ATIVA;   1;         360000.00;         119952.00;         149341.30;          24820.71;         174162.01;        -185837.99;          54210.01
-   7;1118.01.1.4.00.00;            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - DIVIDA ATIVA - MULTAS E JUROS;   1;         290000.00;          96628.00;          25196.07;           7678.29;          32874.36;        -257125.64;         -63753.64
-   8;1118.01.1.9.00.00;            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - DIVIDA ATIVA - ATUALIZACAO MONETARIA;   1;          50000.00;          16660.00;           7480.17;           2368.46;           9848.63;         -40151.37;          -6811.37
-;;;;;;;;;;
-    ;1118.01.4.0.00.00;          IMPOSTO SOBRE TRANSMISSAO ÅgINTER VIVOSÅh DE BENS IMOVEIS E DE DIREITOS REAIS SOBRE IMOVEIS;    ;         400000.00;         133280.00;         173771.18;          26203.40;         199974.58;        -200025.42;          66694.58
-   9;1118.01.4.1.00.00;            IMPOSTO SOBRE TRANSMISSAO ÅgINTER VIVOSÅh DE BENS IMOVEIS E DE DIREITOS REAIS SOBRE IMOVEIS - PRINCIPAL;   1;         400000.00;         133280.00;         173592.48;          26203.40;         199795.88;        -200204.12;          66515.88
-;;;;;;;;;;
-    ;1118.01.4.2.00.00;            IMPOSTO SOBRE TRANSMISSAO ÅgINTER VIVOSÅh DE BENS IMOVEIS E DE DIREITOS REAIS SOBRE IMOVEIS - MULTAS E JUROS;    ;              0.00;              0.00;            178.70;              0.00;            178.70;            178.70;            178.70
- 100;1118.01.4.2.00.01;                MULTAS E JUROS DE MORA DO ITBI ;   1;              0.00;              0.00;            178.70;              0.00;            178.70;            178.70;            178.70
-;;;;;;;;;;
-    ;1118.02.0.0.00.00;        IMPOSTOS SOBRE A PRODUCAO, CIRCULACAO DE MERCADORIAS E SERVICOS;    ;        7280000.00;        2425696.00;        2420815.09;        1503882.92;        3924698.01;       -3355301.99;        1499002.01
-;;;;;;;;;;
-    ;1118.02.3.0.00.00;          IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA;    ;        7280000.00;        2425696.00;        2420815.09;        1503882.92;        3924698.01;       -3355301.99;        1499002.01
-  10;1118.02.3.1.00.00;            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - PRINCIPAL;   1;        7160000.00;        2385712.00;        2383929.84;        1496612.89;        3880542.73;       -3279457.27;        1494830.73
-  11;1118.02.3.2.00.00;            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - MULTAS E JUROS;   1;          20000.00;           6664.00;           4903.47;           1519.55;           6423.02;         -13576.98;           -240.98
-  12;1118.02.3.3.00.00;            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - DIVIDA ATIVA;   1;          75000.00;          24990.00;          12266.43;           2932.00;          15198.43;         -59801.57;          -9791.57
-  13;1118.02.3.4.00.00;            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - DIVIDA ATIVA - MULTAS E JUROS;   1;          10000.00;           3332.00;          14418.09;           2389.76;          16807.85;           6807.85;          13475.85
-  14;1118.02.3.8.00.00;            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - ATUALIZACAO MONETARIA;   1;           5000.00;           1666.00;              4.40;              0.00;              4.40;          -4995.60;          -1661.60
-  15;1118.02.3.9.00.00;            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - DIVIDA ATIVA - ATUALIZACAO MONETARIA;   1;          10000.00;           3332.00;           5292.86;            428.72;           5721.58;          -4278.42;           2389.58
-;;;;;;;;;;
-    ;1120.00.0.0.00.00;    TAXAS;    ;         528000.00;         175929.60;          59034.70;          24162.20;          83196.90;        -444803.10;         -92732.70
-;;;;;;;;;;
-    ;1121.00.0.0.00.00;      TAXAS PELO EXERCICIO DO PODER DE POLICIA;    ;         402000.00;         133946.40;          42094.96;          18133.00;          60227.96;        -341772.04;         -73718.44
-;;;;;;;;;;
-    ;1121.01.0.0.00.00;        TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO;    ;         402000.00;         133946.40;          42094.96;          18133.00;          60227.96;        -341772.04;         -73718.44
-;;;;;;;;;;
-    ;1121.01.1.0.00.00;          TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO;    ;         402000.00;         133946.40;          42094.96;          18133.00;          60227.96;        -341772.04;         -73718.44
-;;;;;;;;;;
-    ;1121.01.1.1.00.00;            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - PRINCIPAL;    ;         402000.00;         133946.40;          26772.73;          12247.07;          39019.80;        -362980.20;         -94926.60
-;;;;;;;;;;
-    ;1121.01.1.1.01.00;              TAXAS DE LICENCA P/ FUNCIONAMENTO ESTAB. COMERCIAL;    ;         150000.00;          49980.00;           1077.37;            532.70;           1610.07;        -148389.93;         -48369.93
-  16;1121.01.1.1.01.01;                TAXAS DE LICENCA P/ FUNCIONAMENTO ESTAB. COMERCIAL - PRINCIPAL;   1;         150000.00;          49980.00;           1077.37;            532.70;           1610.07;        -148389.93;         -48369.93
-;;;;;;;;;;
-    ;1121.01.1.1.02.00;              TAXAS DE PUBLICIDADE;    ;          60000.00;          19992.00;            467.17;              0.00;            467.17;         -59532.83;         -19524.83
-  17;1121.01.1.1.02.01;                TAXAS DE PUBLICIDADE - PRINCIPAL;   1;          60000.00;          19992.00;            467.17;              0.00;            467.17;         -59532.83;         -19524.83
-;;;;;;;;;;
-    ;1121.01.1.1.03.00;              TAXAS DE FUNCINAMENTO DE ESTABECIMENTOS HOR. ESP.;    ;           6000.00;           1999.20;              0.00;              0.00;              0.00;          -6000.00;          -1999.20
-  18;1121.01.1.1.03.01;                TAXAS DE FUNCINAMENTO DE ESTABECIMENTOS HOR. ESP. - PRINCIPAL;   1;           6000.00;           1999.20;              0.00;              0.00;              0.00;          -6000.00;          -1999.20
-;;;;;;;;;;
-    ;1121.01.1.1.04.00;              TAXAS DE LICENCA P/ EXECUCAO DE OBRAS;    ;          60000.00;          19992.00;           2370.56;             71.56;           2442.12;         -57557.88;         -17549.88
-  19;1121.01.1.1.04.01;                TAXAS DE LICENCA P/ EXECUCAO DE OBRAS - PRINCIPAL;   1;          60000.00;          19992.00;           2370.56;             71.56;           2442.12;         -57557.88;         -17549.88
-;;;;;;;;;;
-    ;1121.01.1.1.05.00;              TAXAS DE UTILIZACAO DE AREA DE DOMINIO PUBLICO;    ;         120000.00;          39984.00;          22857.63;          11642.81;          34500.44;         -85499.56;          -5483.56
-  20;1121.01.1.1.05.01;                TAXAS DE UTILIZACAO DE AREA DE DOMINIO PUBLICO - PRINCIPAL;   1;         120000.00;          39984.00;          22857.63;          11642.81;          34500.44;         -85499.56;          -5483.56
-;;;;;;;;;;
-    ;1121.01.1.1.99.00;              OUTRAS TAXAS DE INSPECAO,  CONTROLE E FISCALIZACAO;    ;           6000.00;           1999.20;              0.00;              0.00;              0.00;          -6000.00;          -1999.20
-  21;1121.01.1.1.99.01;                OUTRAS TAXAS DE INSPECAO,  CONTROLE E FISCALIZACAO - PRINCIPAL;   1;           6000.00;           1999.20;              0.00;              0.00;              0.00;          -6000.00;          -1999.20
-;;;;;;;;;;
-    ;1121.01.1.3.00.00;            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - DIVIDA ATIVA;    ;              0.00;              0.00;           9700.15;           2011.73;          11711.88;          11711.88;          11711.88
- 104;1121.01.1.3.00.01;                RECEITA DA D.A DE OUTROS TRIBUTOS ;   1;              0.00;              0.00;           9700.15;           2011.73;          11711.88;          11711.88;          11711.88
-;;;;;;;;;;
-    ;1121.01.1.4.00.00;            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - DIVIDA ATIVA - MULTAS E JUROS;    ;              0.00;              0.00;           4056.07;           2770.92;           6826.99;           6826.99;           6826.99
- 105;1121.01.1.4.00.01;                MULTAS E JUROS DE MORA DA D.A. S/OUTROS TRIBUTOS;   1;              0.00;              0.00;           4056.07;           2770.92;           6826.99;           6826.99;           6826.99
-;;;;;;;;;;
-    ;1121.01.1.8.00.00;            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - ATUALIZACAO MONETARIA;    ;              0.00;              0.00;            403.20;            191.44;            594.64;            594.64;            594.64
- 101;1121.01.1.8.00.01;                MULTAS E JUROS DE MORA DE OUTROS TRIBUTOS ;   1;              0.00;              0.00;            403.20;            191.44;            594.64;            594.64;            594.64
-;;;;;;;;;;
-    ;1121.01.1.9.00.00;            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - DIVIDA ATIVA - ATUALIZACAO MONETARIA;    ;              0.00;              0.00;           1162.81;            911.84;           2074.65;           2074.65;           2074.65
- 114;1121.01.1.9.00.01;                ATUAL. MONET. DA D.A TAXAS E CONTR. DE MELHORIAS;   1;              0.00;              0.00;           1162.81;            911.84;           2074.65;           2074.65;           2074.65
-;;;;;;;;;;
-    ;1122.00.0.0.00.00;      TAXAS PELA PRESTACAO DE SERVICOS;    ;         126000.00;          41983.20;          16939.74;           6029.20;          22968.94;        -103031.06;         -19014.26
-;;;;;;;;;;
-    ;1122.01.0.0.00.00;        TAXAS PELA PRESTACAO DE SERVICOS;    ;         126000.00;          41983.20;          16939.74;           6029.20;          22968.94;        -103031.06;         -19014.26
-;;;;;;;;;;
-    ;1122.01.1.0.00.00;          TAXAS PELA PRESTACAO DE SERVICOS;    ;         126000.00;          41983.20;          16939.74;           6029.20;          22968.94;        -103031.06;         -19014.26
-;;;;;;;;;;
-    ;1122.01.1.1.00.00;            TAXAS PELA PRESTACAO DE SERVICOS - PRINCIPAL;    ;         126000.00;          41983.20;          16939.74;           6029.20;          22968.94;        -103031.06;         -19014.26
-;;;;;;;;;;
-    ;1122.01.1.1.01.00;              TAXA DE CEMITERIOS;    ;           6000.00;           1999.20;            874.00;            151.00;           1025.00;          -4975.00;           -974.20
-  22;1122.01.1.1.01.01;                TAXA DE CEMITERIOS - PRINCIPAL;   1;           6000.00;           1999.20;            874.00;            151.00;           1025.00;          -4975.00;           -974.20
-;;;;;;;;;;
-    ;1122.01.1.1.99.00;              OUTRAS TAXAS PELA PRESTACAO DE SERVICOS ;    ;         120000.00;          39984.00;          16065.74;           5878.20;          21943.94;         -98056.06;         -18040.06
-  23;1122.01.1.1.99.01;                OUTRAS TAXAS PELA PRESTACAO DE SERVICOS - PRINCIPAL;   1;         120000.00;          39984.00;          16065.74;           5878.20;          21943.94;         -98056.06;         -18040.06
-;;;;;;;;;;
-    ;1200.00.0.0.00.00;  CONTRIBUICOES;    ;        2247000.00;         748700.40;         444353.37;         149245.79;         593599.16;       -1653400.84;        -155101.24
-;;;;;;;;;;
-    ;1210.00.0.0.00.00;    CONTRIBUICOES SOCIAIS;    ;        1887000.00;         628748.40;         431149.10;         144200.63;         575349.73;       -1311650.27;         -53398.67
-;;;;;;;;;;
-    ;1210.04.0.0.00.00;        CONTRIBUICAO PARA O REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS;    ;        1887000.00;         628748.40;         431149.10;         144200.63;         575349.73;       -1311650.27;         -53398.67
-;;;;;;;;;;
-    ;1210.04.2.0.00.00;          CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS;    ;        1885000.00;         628082.00;         431149.10;         144200.63;         575349.73;       -1309650.27;         -52732.27
-;;;;;;;;;;
-    ;1210.04.2.1.00.00;            CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - PRINCIPAL;    ;        1880000.00;         626416.00;         431149.10;         144200.63;         575349.73;       -1304650.27;         -51066.27
-   1;1210.04.2.1.00.01;                CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - PREFEITURA - PRINCIPAL;   1;        1800000.00;         599760.00;         416835.75;         136473.96;         553309.71;       -1246690.29;         -46450.29
-   2;1210.04.2.1.00.02;                CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - CAMARA - PRINCIPAL;   1;          50000.00;          16660.00;           7750.36;           4150.48;          11900.84;         -38099.16;          -4759.16
-   3;1210.04.2.1.00.03;                CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - IPMP - PRINCIPAL;   1;          30000.00;           9996.00;           6562.99;           3576.19;          10139.18;         -19860.82;            143.18
-   4;1210.04.2.2.00.00;            CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - MULTAS E JUROS;   1;           5000.00;           1666.00;              0.00;              0.00;              0.00;          -5000.00;          -1666.00
-;;;;;;;;;;
-    ;1210.04.3.0.00.00;          CONTRIBUICAO DOS SERVIDORES INATIVOS CIVIS PARA O RPPS;    ;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-   5;1210.04.3.1.00.00;            CONTRIBUICAO DOS SERVIDORES INATIVOS CIVIS PARA O RPPS - PRINCIPAL;   1;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-;;;;;;;;;;
-    ;1210.04.4.0.00.00;          CONTRIBUICAO DOS PENSIONISTAS CIVIS PARA O RPPS;    ;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-   6;1210.04.4.1.00.00;            CONTRIBUICAO DOS PENSIONISTAS CIVIS PARA O RPPS - PRINCIPAL;   1;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-;;;;;;;;;;
-    ;1240.00.0.0.00.00;    CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA;    ;         360000.00;         119952.00;          13204.27;           5045.16;          18249.43;        -341750.57;        -101702.57
-;;;;;;;;;;
-    ;1240.00.1.0.00.00;          CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA;    ;         360000.00;         119952.00;          13204.27;           5045.16;          18249.43;        -341750.57;        -101702.57
-  24;1240.00.1.1.00.00;            CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA - PRINCIPAL;   1;         360000.00;         119952.00;          13204.27;           5045.16;          18249.43;        -341750.57;        -101702.57
-;;;;;;;;;;
-    ;1300.00.0.0.00.00;  RECEITA PATRIMONIAL;    ;        2399780.00;         799606.68;        2695007.72;          11049.16;        2706056.88;         306276.88;        1906450.20
-;;;;;;;;;;
-    ;1320.00.0.0.00.00;    VALORES MOBILIARIOS;    ;        2399780.00;         799606.68;        2695007.72;          11049.16;        2706056.88;         306276.88;        1906450.20
-;;;;;;;;;;
-    ;1321.00.0.0.00.00;      JUROS E CORRECOES MONETARIAS;    ;        2398780.00;         799273.48;        2695007.72;          11049.16;        2706056.88;         307276.88;        1906783.40
-;;;;;;;;;;
-    ;1321.00.1.0.00.00;          REMUNERACAO DE DEPOSITOS BANCARIOS;    ;         598780.00;         199513.48;          70789.67;         -22149.44;          48640.23;        -550139.77;        -150873.25
-;;;;;;;;;;
-    ;1321.00.1.1.00.00;            REMUNERACAO DE DEPOSITOS BANCARIOS - PRINCIPAL;    ;         598780.00;         199513.48;          70789.67;         -22149.44;          48640.23;        -550139.77;        -150873.25
-  25;1321.00.1.1.01.00;              REMUNERACAO DE DEPOSITOS BANCARIOS - FUNDEB;   2;          40000.00;          13328.00;          21624.90;         -16195.84;           5429.06;         -34570.94;          -7898.94
-;;;;;;;;;;
-    ;1321.00.1.1.02.00;              REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE;    ;         120000.00;          39984.00;           5034.90;           6115.10;          11150.00;        -108850.00;         -28834.00
-  26;1321.00.1.1.02.01;                REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE TESOURO 15%;   1;          10000.00;           3332.00;            295.99;            232.37;            528.36;          -9471.64;          -2803.64
-  27;1321.00.1.1.02.02;                REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE ESTADO;   2;          10000.00;           3332.00;             77.90;             41.44;            119.34;          -9880.66;          -3212.66
-  28;1321.00.1.1.02.03;                REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE UNIAO;   5;         100000.00;          33320.00;           4661.01;           5841.29;          10502.30;         -89497.70;         -22817.70
-;;;;;;;;;;
-    ;1321.00.1.1.03.00;              REMUNERACAO DE DEPOSITOS BANCARIOS - ENSINO;    ;          70000.00;          23324.00;          25311.95;         -20010.43;           5301.52;         -64698.48;         -18022.48
-  29;1321.00.1.1.03.01;                REMUNERACAO DE DEPOSITOS BANCARIOS - ENSINO TESOURO 25%;   1;          10000.00;           3332.00;            392.30;            255.19;            647.49;          -9352.51;          -2684.51
-  30;1321.00.1.1.03.02;                REMUNERACAO DE DEPOSITOS BANCARIOS - ENSINO UNIAO;   5;          60000.00;          19992.00;          24919.65;         -20265.62;           4654.03;         -55345.97;         -15337.97
-;;;;;;;;;;
-    ;1321.00.1.1.04.00;              REMUNERACAO DE DEPOSITOS BANCARIOS - ASSISTENCIA SOCIAL;    ;          24000.00;           7996.80;           8160.24;          -5312.86;           2847.38;         -21152.62;          -5149.42
-  31;1321.00.1.1.04.01;                REMUNERACAO DE DEPOSITOS BANCARIOS - ASS. SOCIAL TESOURO;   1;           2000.00;            666.40;             82.56;             77.73;            160.29;          -1839.71;           -506.11
-  32;1321.00.1.1.04.02;                REMUNERACAO DE DEPOSITOS BANCARIOS - ASS. SOCIAL ESTADO;   2;           2000.00;            666.40;           5094.69;          -4816.20;            278.49;          -1721.51;           -387.91
-  33;1321.00.1.1.04.03;                REMUNERACAO DE DEPOSITOS BANCARIOS - ASS. SOCIAL UNIAO;   5;          20000.00;           6664.00;           2982.99;           -574.39;           2408.60;         -17591.40;          -4255.40
-;;;;;;;;;;
-    ;1321.00.1.1.05.00;              REMUNERACAO DE DEPOSITOS BANCARIOS - VINCULADOS;    ;           7000.00;           2332.40;            717.97;            737.36;           1455.33;          -5544.67;           -877.07
-  34;1321.00.1.1.05.01;                REMUNERACAO DE DEPOSITOS BANCARIOS VINCULADOS - CIDE;   1;           2000.00;            666.40;            274.60;            283.77;            558.37;          -1441.63;           -108.03
- 115;1321.00.1.1.05.02;                REMUNERACAO DE DEPOSITOS BANCARIOS VINCULADOS - ESTADO;   2;              0.00;              0.00;             89.22;             84.01;            173.23;            173.23;            173.23
-  35;1321.00.1.1.05.03;                REMUNERACAO DE DEPOSITOS BANCARIOS VINCULADOS - UNIAO;   5;           5000.00;           1666.00;            354.15;            369.58;            723.73;          -4276.27;           -942.27
-  36;1321.00.1.1.06.00;              REMUNERACAO DE DEPOSITOS BANCARIOS NAO VINCULADOS;   1;         337780.00;         112548.28;           9939.71;          12517.23;          22456.94;        -315323.06;         -90091.34
-;;;;;;;;;;
-    ;1321.00.4.0.00.00;          REMUNERACAO DOS RECURSOS DO REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS;    ;        1800000.00;         599760.00;        2624218.05;          33198.60;        2657416.65;         857416.65;        2057656.65
-;;;;;;;;;;
-    ;1321.00.4.1.00.00;            REMUNERACAO DOS RECURSOS DO REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS - PRINCIPAL;    ;        1800000.00;         599760.00;        2624218.05;          33198.60;        2657416.65;         857416.65;        2057656.65
-   7;1321.00.4.1.00.01;                REMUNERACAO DOS RECURSOS DO REG. PROPR. PREV. SOCIAL - RPPS - PRINCIPAL;   1;        1800000.00;         599760.00;        2624218.05;          33198.60;        2657416.65;         857416.65;        2057656.65
-;;;;;;;;;;
-    ;1322.00.0.0.00.00;      DIVIDENDOS;    ;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-;;;;;;;;;;
-    ;1322.00.1.0.00.00;          DIVIDENDOS;    ;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-  37;1322.00.1.1.00.00;            DIVIDENDOS - PRINCIPAL;   1;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-;;;;;;;;;;
-    ;1700.00.0.0.00.00;  TRANSFERENCIAS CORRENTES;    ;       43980000.00;       14654136.00;       11926021.26;        3773738.21;       15699759.47;      -28280240.53;        1045623.47
-;;;;;;;;;;
-    ;1710.00.0.0.00.00;    TRANSFERENCIAS DA UNIAO E DE SUAS ENTIDADES;    ;       21688720.00;        7226681.52;        5268031.43;        2412274.93;        7680306.36;      -14008413.64;         453624.84
-;;;;;;;;;;
-    ;1718.00.0.0.00.00;      TRANSFERENCIAS DA UNIAO - ESPECIFICA E/M;    ;       21688720.00;        7226681.52;        5268031.43;        2412274.93;        7680306.36;      -14008413.64;         453624.84
-;;;;;;;;;;
-    ;1718.01.0.0.00.00;        PARTICIPACAO NA RECEITA DA UNIAO;    ;       16292500.00;        5428661.00;        3769478.47;        1681667.25;        5451145.72;      -10841354.28;          22484.72
-;;;;;;;;;;
-    ;1718.01.2.0.00.00;          COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - COTA MENSAL;    ;       14980000.00;        4991336.00;        3768053.74;        1681274.94;        5449328.68;       -9530671.32;         457992.68
-  38;1718.01.2.1.00.00;            COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - COTA MENSAL - PRINCIPAL;   1;       14980000.00;        4991336.00;        3768053.74;        1681274.94;        5449328.68;       -9530671.32;         457992.68
-;;;;;;;;;;
-    ;1718.01.3.0.00.00;          COTA-PARTE DO FUNDO DE PARTICIPACAO DO MUNICIPIOS - 1% COTA ENTREGUE NO MES DE DEZEMBRO;    ;         650000.00;         216580.00;              0.00;              0.00;              0.00;        -650000.00;        -216580.00
-  39;1718.01.3.1.00.00;            COTA-PARTE DO FUNDO DE PARTICIPACAO DO MUNICIPIOS - 1% COTA ENTREGUE NO MES DE DEZEMBRO - PRINCIPAL;   1;         650000.00;         216580.00;              0.00;              0.00;              0.00;        -650000.00;        -216580.00
-;;;;;;;;;;
-    ;1718.01.4.0.00.00;          COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - 1% COTA ENTREGUE NO MES DE JULHO;    ;         650000.00;         216580.00;              0.00;              0.00;              0.00;        -650000.00;        -216580.00
-  40;1718.01.4.1.00.00;            COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - 0,5% COTA ENTREGUE NO MES DE JULHO - PRINCIPAL;   1;         650000.00;         216580.00;              0.00;              0.00;              0.00;        -650000.00;        -216580.00
-;;;;;;;;;;
-    ;1718.01.5.0.00.00;          COTA-PARTE DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL;    ;          12500.00;           4165.00;           1424.73;            392.31;           1817.04;         -10682.96;          -2347.96
-  41;1718.01.5.1.00.00;            COTA-PARTE DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL - PRINCIPAL;   1;          12500.00;           4165.00;           1424.73;            392.31;           1817.04;         -10682.96;          -2347.96
-;;;;;;;;;;
-    ;1718.02.0.0.00.00;        TRANSFERENCIA DA COMPENSACAO FINANCEIRA PELA EXPLORACAO DE RECURSOS NATURAIS;    ;        1607000.00;         535452.40;         472167.01;         170166.98;         642333.99;        -964666.01;         106881.59
-;;;;;;;;;;
-    ;1718.02.1.0.00.00;          COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS HIDRICOS;    ;         730000.00;         243236.00;         167442.29;          74279.18;         241721.47;        -488278.53;          -1514.53
-  42;1718.02.1.1.00.00;            COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS HIDRICOS - PRINCIPAL;   1;         730000.00;         243236.00;         167442.29;          74279.18;         241721.47;        -488278.53;          -1514.53
-;;;;;;;;;;
-    ;1718.02.2.0.00.00;          COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS MINERAIS - CFEM;    ;          62000.00;          20658.40;           5559.53;           2265.59;           7825.12;         -54174.88;         -12833.28
-  43;1718.02.2.1.00.00;            COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS MINERAIS - CFEM - PRINCIPAL;   1;          62000.00;          20658.40;           5559.53;           2265.59;           7825.12;         -54174.88;         -12833.28
-;;;;;;;;;;
-    ;1718.02.3.0.00.00;          COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DE PETROLEO - LEI No 7.990/89;    ;         645000.00;         214914.00;         245474.44;          77507.64;         322982.08;        -322017.92;         108068.08
-  44;1718.02.3.1.00.00;            COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DE PETROLEO - LEI No 7.990/89 - PRINCIPAL;   1;         645000.00;         214914.00;         245474.44;          77507.64;         322982.08;        -322017.92;         108068.08
-;;;;;;;;;;
-    ;1718.02.6.0.00.00;          COTA-PARTE DO FUNDO ESPECIAL DO PETROLEO - FEP;    ;         170000.00;          56644.00;          53690.75;          16114.57;          69805.32;        -100194.68;          13161.32
-  45;1718.02.6.1.00.00;            COTA-PARTE DO FUNDO ESPECIAL DO PETROLEO - FEP - PRINCIPAL;   1;         170000.00;          56644.00;          53690.75;          16114.57;          69805.32;        -100194.68;          13161.32
-;;;;;;;;;;
-    ;1718.03.0.0.00.00;        TRANSFERENCIA DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS - REPASSES FUNDO A FUNDO;    ;        1830000.00;         609756.00;         634608.72;         317245.51;         951854.23;        -878145.77;         342098.23
-;;;;;;;;;;
-    ;1718.03.1.0.00.00;          TRANSFERENCIA DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS - REPASSES FUNDO A FUNDO;    ;        1830000.00;         609756.00;         634608.72;         317245.51;         951854.23;        -878145.77;         342098.23
-;;;;;;;;;;
-    ;1718.03.1.1.00.00;            TRANSFERENCIA DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS - REPASSES FUNDO A FUNDO - PRINCIPAL;    ;        1830000.00;         609756.00;         634608.72;         317245.51;         951854.23;        -878145.77;         342098.23
-;;;;;;;;;;
-    ;1718.03.1.1.01.00;              ATENCAO BASICA SAUDE;    ;        1310000.00;         436492.00;         392161.47;         122347.66;         514509.13;        -795490.87;          78017.13
-  46;1718.03.1.1.01.01;                PISO DE ATENCAO BASICA - PAB FIXO;   5;         510000.00;         169932.00;         127161.99;          56011.83;         183173.82;        -326826.18;          13241.82
-  47;1718.03.1.1.01.02;                ESTRATEGIA SAUDE DA FAMILIA - ESF;   5;         360000.00;         119952.00;              0.00;              0.00;              0.00;        -360000.00;        -119952.00
-  48;1718.03.1.1.01.03;                PROGRAMA AGENTE COMUNITARIO DA SAUDE - PACS;   5;         300000.00;          99960.00;         117624.00;          30420.00;         148044.00;        -151956.00;          48084.00
-  49;1718.03.1.1.01.04;                PROGRAMA SAUDE BUCAL;   5;          80000.00;          26656.00;           6191.66;           3095.83;           9287.49;         -70712.51;         -17368.51
-  50;1718.03.1.1.01.05;                PROGRAMA MELHORIA ACESSO E QUALIDADE - PMAQ;   5;          60000.00;          19992.00;              0.00;              0.00;              0.00;         -60000.00;         -19992.00
- 118;1718.03.1.1.01.06;                PISO DE ATENCAO BASICA - PAB VARIAVEL;   5;              0.00;              0.00;         141183.82;          32820.00;         174003.82;         174003.82;         174003.82
-;;;;;;;;;;
-    ;1718.03.1.1.02.00;              VIGILANCIA EM SUDE;    ;         100000.00;          33320.00;           7583.94;              0.00;           7583.94;         -92416.06;         -25736.06
-  51;1718.03.1.1.02.01;                VIGILANCIA EPIDEMIOLOGICA E AMBIENTAL EM SAUDE;   5;          40000.00;          13328.00;              0.00;              0.00;              0.00;         -40000.00;         -13328.00
-  52;1718.03.1.1.02.02;                VIGILANCIA SANITARIA;   5;          60000.00;          19992.00;           7583.94;              0.00;           7583.94;         -52416.06;         -12408.06
-;;;;;;;;;;
-    ;1718.03.1.1.03.00;              ASSISTENCIA FARMACEUTICA;    ;          60000.00;          19992.00;           5343.83;           5343.83;          10687.66;         -49312.34;          -9304.34
-  53;1718.03.1.1.03.01;                PROGRAMA ASSISTENCIA FARMACEUTICA BASICA;   5;          60000.00;          19992.00;           5343.83;           5343.83;          10687.66;         -49312.34;          -9304.34
-;;;;;;;;;;
-    ;1718.03.1.1.04.00;              MEDIA E ALTA COMPLEXIDADE AMBULATORIAL E HOSPITALAR;    ;         360000.00;         119952.00;          79519.48;          25474.55;         104994.03;        -255005.97;         -14957.97
-  54;1718.03.1.1.04.01;                TETO MUNICIPAL DE MEDIA E ALTA COMPLEXIDADE AMBULATORIAL;   5;         360000.00;         119952.00;          79519.48;          25474.55;         104994.03;        -255005.97;         -14957.97
-;;;;;;;;;;
-    ;1718.03.1.1.05.00;              PROGRAMA SERVICOS DE ATENCAO BASICA DE SAUDE;    ;              0.00;              0.00;         150000.00;              0.00;         150000.00;         150000.00;         150000.00
- 120;1718.03.1.1.05.01;                ESTRUTURACAO REDE DE SERVICOS ATENCAO BASICA SAUDE;   5;              0.00;              0.00;         150000.00;              0.00;         150000.00;         150000.00;         150000.00
-;;;;;;;;;;
-    ;1718.03.1.1.06.00;              PROGRAMA APOIO FINANCEIRO DA UNIAO P/ A SAUDE;    ;              0.00;              0.00;              0.00;         164079.47;         164079.47;         164079.47;         164079.47
- 121;1718.03.1.1.06.01;                CUSTEIO DAS ACOES E SERVICOS DA SAUDE;   5;              0.00;              0.00;              0.00;         164079.47;         164079.47;         164079.47;         164079.47
-;;;;;;;;;;
-    ;1718.05.0.0.00.00;        TRANSFERENCIAS DE RECURSOS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE;    ;        1503000.00;         500799.60;         378502.51;         166449.58;         544952.09;        -958047.91;          44152.49
-;;;;;;;;;;
-    ;1718.05.1.0.00.00;          TRANSFERENCIAS DO SALARIO-EDUCACAO;    ;        1100000.00;         366520.00;         359657.11;          97078.59;         456735.70;        -643264.30;          90215.70
-  55;1718.05.1.1.00.00;            TRANSFERENCIAS DO SALARIO-EDUCACAO - PRINCIPAL;   5;        1100000.00;         366520.00;         359657.11;          97078.59;         456735.70;        -643264.30;          90215.70
-;;;;;;;;;;
-    ;1718.05.3.0.00.00;          TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAE;    ;         150000.00;          49980.00;          18845.40;          18845.40;          37690.80;        -112309.20;         -12289.20
-  56;1718.05.3.1.00.00;            TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAE - PRINCIPAL;   5;         150000.00;          49980.00;          18845.40;          18845.40;          37690.80;        -112309.20;         -12289.20
-;;;;;;;;;;
-    ;1718.05.4.0.00.00;          TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE DO ESCOLAR - PNATE;    ;         250000.00;          83300.00;              0.00;          50525.59;          50525.59;        -199474.41;         -32774.41
-  57;1718.05.4.1.00.00;            TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE DO ESCOLAR - PNATE - PRINCIPAL;   5;         250000.00;          83300.00;              0.00;          50525.59;          50525.59;        -199474.41;         -32774.41
-;;;;;;;;;;
-    ;1718.05.9.0.00.00;          OUTRAS TRANSFERENCIAS DIRETAS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE;    ;           3000.00;            999.60;              0.00;              0.00;              0.00;          -3000.00;           -999.60
-;;;;;;;;;;
-    ;1718.05.9.1.00.00;            OUTRAS TRANSFERENCIAS DIRETAS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE - PRINCIPAL;    ;           3000.00;            999.60;              0.00;              0.00;              0.00;          -3000.00;           -999.60
-;;;;;;;;;;
-    ;1718.05.9.1.01.00;              OUTRAS TRANSFERENCIAS DIRETAS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE;    ;           3000.00;            999.60;              0.00;              0.00;              0.00;          -3000.00;           -999.60
-  58;1718.05.9.1.01.01;                TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAP - PRINCIPAL;   5;           3000.00;            999.60;              0.00;              0.00;              0.00;          -3000.00;           -999.60
-;;;;;;;;;;
-    ;1718.06.0.0.00.00;        TRANSFERENCIA FINANCEIRA DO ICMS - DESONERACAO - L.C. No 87/96;    ;          62400.00;          20791.68;           9335.62;           9335.62;          18671.24;         -43728.76;          -2120.44
-;;;;;;;;;;
-    ;1718.06.1.0.00.00;          TRANSFERENCIA FINANCEIRA DO ICMS - DESONERACAO - L.C. No 87/96;    ;          62400.00;          20791.68;           9335.62;           9335.62;          18671.24;         -43728.76;          -2120.44
-  59;1718.06.1.1.00.00;            TRANSFERENCIA FINANCEIRA DO ICMS - DESONERACAO - L.C. No 87/96 - PRINCIPAL;   1;          62400.00;          20791.68;           9335.62;           9335.62;          18671.24;         -43728.76;          -2120.44
-;;;;;;;;;;
-    ;1718.10.0.0.00.00;        TRANSFERENCIAS DE CONVENIOS DA UNIAO E DE SUAS ENTIDADES;    ;         393820.00;         131220.84;           3939.10;          67409.99;          71349.09;        -322470.91;         -59871.75
-;;;;;;;;;;
-    ;1718.10.1.0.00.00;          TRANSFERENCIAS DE CONVENIOS DA UNIAO PARA O SISTEMA UNICO DE SAUDE - SUS;    ;         157500.00;          52479.00;            103.40;           -103.40;              0.00;        -157500.00;         -52479.00
-;;;;;;;;;;
-    ;1718.10.1.1.00.00;            TRANSFERENCIAS DE CONVENIOS DA UNIAO PARA O SISTEMA UNICO DE SAUDE - SUS - PRINCIPAL;    ;         157500.00;          52479.00;            103.40;           -103.40;              0.00;        -157500.00;         -52479.00
-  60;1718.10.1.1.00.01;                TRANSFERENCIAS DE CONVENIOS - S.A.M.U.;   5;         157500.00;          52479.00;            103.40;           -103.40;              0.00;        -157500.00;         -52479.00
-;;;;;;;;;;
-    ;1718.10.2.0.00.00;          TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO;    ;          15000.00;           4998.00;              0.00;              0.00;              0.00;         -15000.00;          -4998.00
-;;;;;;;;;;
-    ;1718.10.2.1.00.00;            TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO - PRINCIPAL;    ;          15000.00;           4998.00;              0.00;              0.00;              0.00;         -15000.00;          -4998.00
-  61;1718.10.2.1.00.01;                PROGRAMA DINHEIRO DIRETO NA ESCOLA - PDDE;   5;          15000.00;           4998.00;              0.00;              0.00;              0.00;         -15000.00;          -4998.00
-;;;;;;;;;;
-    ;1718.10.3.0.00.00;          TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE ASSISTENCIA SOCIAL;    ;         221320.00;          73743.84;           3835.70;          67513.39;          71349.09;        -149970.91;          -2394.75
-;;;;;;;;;;
-    ;1718.10.3.1.00.00;            TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE ASSISTENCIA SOCIAL - PRINCIPAL;    ;         221320.00;          73743.84;           3835.70;          67513.39;          71349.09;        -149970.91;          -2394.75
-  62;1718.10.3.1.00.01;                PROGRAMA INDICE GESTAO DESCENTRALIZADA -  IGDBF;   5;          44000.00;          14660.80;           1893.74;           1881.60;           3775.34;         -40224.66;         -10885.46
-  63;1718.10.3.1.00.02;                PROGRAMA PRIMEIRA INFANCIA NO SUAS;   5;          60000.00;          19992.00;              0.00;              0.00;              0.00;         -60000.00;         -19992.00
-  64;1718.10.3.1.00.03;                PROGRAMA PROTECAO SOCIAL BASICA - PSB;   5;          30000.00;           9996.00;              0.00;              0.00;              0.00;         -30000.00;          -9996.00
-  65;1718.10.3.1.00.04;                PROGRAMA PROTECAO ESPECIAL ALTA COMPLEXIDADE - PSEAC;   5;          77520.00;          25829.68;              0.00;          65631.79;          65631.79;         -11888.21;          39802.11
-  66;1718.10.3.1.00.05;                GESTAO DO PROGRAMA BOLSA FAMILIA E CADASTRO UNICO;   5;           9800.00;           3265.36;           1941.96;              0.00;           1941.96;          -7858.04;          -1323.40
-;;;;;;;;;;
-    ;1720.00.0.0.00.00;    TRANSFERENCIAS DOS ESTADOS E DO DISTRITO FEDERAL E DE SUAS ENTIDADES;    ;       14131280.00;        4708542.48;        4384212.57;         864337.00;        5248549.57;       -8882730.43;         540007.09
-;;;;;;;;;;
-    ;1728.00.0.0.00.00;      TRANSFERENCIAS DOS ESTADOS - ESPECIFICA E/M;    ;       14131280.00;        4708542.48;        4384212.57;         864337.00;        5248549.57;       -8882730.43;         540007.09
-;;;;;;;;;;
-    ;1728.01.0.0.00.00;        PARTICIPACAO NA RECEITA DOS ESTADOS;    ;       13674000.00;        4556176.80;        4337365.11;         816859.50;        5154224.61;       -8519775.39;         598047.81
-;;;;;;;;;;
-    ;1728.01.1.0.00.00;          COTA-PARTE DO ICMS;    ;       11860000.00;        3951752.00;        3198600.27;         730738.96;        3929339.23;       -7930660.77;         -22412.77
-  67;1728.01.1.1.00.00;            COTA-PARTE DO ICMS - PRINCIPAL;   1;       11860000.00;        3951752.00;        3198600.27;         730738.96;        3929339.23;       -7930660.77;         -22412.77
-;;;;;;;;;;
-    ;1728.01.2.0.00.00;          COTA-PARTE DO IPVA;    ;        1660000.00;         553112.00;        1097064.96;          65270.02;        1162334.98;        -497665.02;         609222.98
-  68;1728.01.2.1.00.00;            COTA-PARTE DO IPVA - PRINCIPAL;   1;        1660000.00;         553112.00;        1097064.96;          65270.02;        1162334.98;        -497665.02;         609222.98
-;;;;;;;;;;
-    ;1728.01.3.0.00.00;          COTA-PARTE DO IPI - MUNICIPIOS;    ;          94000.00;          31320.80;          27164.44;           8249.01;          35413.45;         -58586.55;           4092.65
-  69;1728.01.3.1.00.00;            COTA-PARTE DO IPI - MUNICIPIOS - PRINCIPAL;   1;          94000.00;          31320.80;          27164.44;           8249.01;          35413.45;         -58586.55;           4092.65
-;;;;;;;;;;
-    ;1728.01.4.0.00.00;          COTA-PARTE DA CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO;    ;          60000.00;          19992.00;          14535.44;          12601.51;          27136.95;         -32863.05;           7144.95
-  70;1728.01.4.1.00.00;            COTA-PARTE DA CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO - PRINCIPAL;   1;          60000.00;          19992.00;          14535.44;          12601.51;          27136.95;         -32863.05;           7144.95
-;;;;;;;;;;
-    ;1728.02.0.0.00.00;        TRANSFERENCIA DA COTA-PARTE DA COMPENSACAO FINANCEIRA (25%);    ;          40000.00;          13328.00;          10124.46;           4926.37;          15050.83;         -24949.17;           1722.83
-;;;;;;;;;;
-    ;1728.02.3.0.00.00;          COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DO PETROLEO - LEI No 7.990/89, ARTIGO 9o;    ;          40000.00;          13328.00;          10124.46;           4926.37;          15050.83;         -24949.17;           1722.83
-  71;1728.02.3.1.00.00;            COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DO PETROLEO - LEI No 7.990/89, ARTIGO 9o - PRINCIPAL;   1;          40000.00;          13328.00;          10124.46;           4926.37;          15050.83;         -24949.17;           1722.83
-;;;;;;;;;;
-    ;1728.03.0.0.00.00;        TRANSFERENCIA DE RECURSOS DO ESTADO PARA PROGRAMAS DE SAUDE - REPASSE FUNDO A FUNDO;    ;         265000.00;          88298.00;           3585.14;          24927.00;          28512.14;        -236487.86;         -59785.86
-;;;;;;;;;;
-    ;1728.03.1.0.00.00;          TRANSFERENCIA DE RECURSOS DO ESTADO PARA PROGRAMAS DE SAUDE - REPASSE FUNDO A FUNDO;    ;         265000.00;          88298.00;           3585.14;          24927.00;          28512.14;        -236487.86;         -59785.86
-;;;;;;;;;;
-    ;1728.03.1.1.00.00;            TRANSFERENCIA DE RECURSOS DO ESTADO PARA PROGRAMAS DE SAUDE - REPASSE FUNDO A FUNDO - PRINCIPAL;    ;         265000.00;          88298.00;           3585.14;          24927.00;          28512.14;        -236487.86;         -59785.86
-  72;1728.03.1.1.00.01;                PROGRAMA QUALIS MAIS;   2;         120000.00;          39984.00;              0.00;          22656.00;          22656.00;         -97344.00;         -17328.00
-  73;1728.03.1.1.00.02;                PROGRAMA DIABETE MELLITUS;   2;           1000.00;            333.20;              0.00;              0.00;              0.00;          -1000.00;           -333.20
-  74;1728.03.1.1.00.03;                PROGRAMA INSUMOS GLICEMIA;   2;           6000.00;           1999.20;           2177.00;           2271.00;           4448.00;          -1552.00;           2448.80
-  75;1728.03.1.1.00.04;                PROGRAMA DOSE CERTA;   2;          10000.00;           3332.00;              0.00;              0.00;              0.00;         -10000.00;          -3332.00
-  76;1728.03.1.1.00.05;                PROGRAMA SORRIA SAO PAULO - MATERIAL;   2;          33600.00;          11195.52;              0.00;              0.00;              0.00;         -33600.00;         -11195.52
-  77;1728.03.1.1.00.06;                PROGRAMA SORRIA SAO PAULO - SERVICOS;   2;          14400.00;           4798.08;              0.00;              0.00;              0.00;         -14400.00;          -4798.08
-  78;1728.03.1.1.00.07;                PROGRAMA ATENCAO BASICA;   2;          60000.00;          19992.00;             88.14;              0.00;             88.14;         -59911.86;         -19903.86
-  79;1728.03.1.1.00.08;                PROGRAMA AEDES  AEGYPTI;   2;          20000.00;           6664.00;           1320.00;              0.00;           1320.00;         -18680.00;          -5344.00
-;;;;;;;;;;
-    ;1728.10.0.0.00.00;        TRANSFERENCIA DE CONVENIOS DOS ESTADOS E DO DISTRITO FEDERAL E DE SUAS ENTIDADES;    ;         152280.00;          50739.68;          33137.86;          17624.13;          50761.99;        -101518.01;             22.31
-;;;;;;;;;;
-    ;1728.10.9.0.00.00;          OUTRAS TRANSFERENCIAS DE CONVENIO DOS ESTADOS;    ;         152280.00;          50739.68;          33137.86;          17624.13;          50761.99;        -101518.01;             22.31
-;;;;;;;;;;
-    ;1728.10.9.1.00.00;            OUTRAS TRANSFERENCIAS DE CONVENIO DOS ESTADOS - PRINCIPAL;    ;         152280.00;          50739.68;          33137.86;          17624.13;          50761.99;        -101518.01;             22.31
-  80;1728.10.9.1.00.01;                PROGRAMA SOCIAL ESPECIAL ALTA COMPLEXIDADE;   2;          21600.00;           7197.12;           1800.00;           7400.40;           9200.40;         -12399.60;           2003.28
-  81;1728.10.9.1.00.02;                PROGRAMA SOCIAL ESPECIAL MEDIA COMPLEXIDADE;   2;           9000.00;           2998.80;           1750.00;            500.00;           2250.00;          -6750.00;           -748.80
-  82;1728.10.9.1.00.03;                PROGRAMA SOCIAL BASICO - PSB;   2;         121680.00;          40543.76;          29587.86;           9723.73;          39311.59;         -82368.41;          -1232.17
-;;;;;;;;;;
-    ;1750.00.0.0.00.00;    TRANSFERENCIAS DE OUTRAS INSTITUICOES PUBLICAS;    ;        8160000.00;        2718912.00;        2273777.26;         497126.28;        2770903.54;       -5389096.46;          51991.54
-;;;;;;;;;;
-    ;1758.00.0.0.00.00;      TRANSFERENCIAS DE OUTRAS INSTITUICOES PUBLICAS - ESPECIFICA E/M;    ;        8160000.00;        2718912.00;        2273777.26;         497126.28;        2770903.54;       -5389096.46;          51991.54
-;;;;;;;;;;
-    ;1758.01.0.0.00.00;        TRANSFERENCIAS DE RECURSOS DO FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO - FUNDEB;    ;        8160000.00;        2718912.00;        2273777.26;         497126.28;        2770903.54;       -5389096.46;          51991.54
-;;;;;;;;;;
-    ;1758.01.1.0.00.00;          TRANSFERENCIAS DE RECURSOS DO FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO - FUNDEB;    ;        8160000.00;        2718912.00;        2273777.26;         497126.28;        2770903.54;       -5389096.46;          51991.54
-  83;1758.01.1.1.00.00;            TRANSFERENCIAS DE RECURSOS DO FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO - FUNDEB - PRINCIPAL;   2;        8160000.00;        2718912.00;        2273777.26;         497126.28;        2770903.54;       -5389096.46;          51991.54
-;;;;;;;;;;
-    ;1900.00.0.0.00.00;  OUTRAS RECEITAS CORRENTES;    ;         187000.00;          62308.40;         586747.86;         175569.84;         762317.70;         575317.70;         700009.30
-;;;;;;;;;;
-    ;1920.00.0.0.00.00;    INDENIZACOES, RESTITUICOES E RESSARCIMENTOS;    ;          30000.00;           9996.00;          16180.83;              0.00;          16180.83;         -13819.17;           6184.83
-;;;;;;;;;;
-    ;1921.00.0.0.00.00;      INDENIZACOES;    ;          10000.00;           3332.00;              0.00;              0.00;              0.00;         -10000.00;          -3332.00
-;;;;;;;;;;
-    ;1921.99.0.0.00.00;        OUTRAS INDENIZACOES;    ;          10000.00;           3332.00;              0.00;              0.00;              0.00;         -10000.00;          -3332.00
-;;;;;;;;;;
-    ;1921.99.1.0.00.00;          OUTRAS INDENIZACOES;    ;          10000.00;           3332.00;              0.00;              0.00;              0.00;         -10000.00;          -3332.00
-  84;1921.99.1.1.00.00;            OUTRAS INDENIZACOES - PRINCIPAL;   1;          10000.00;           3332.00;              0.00;              0.00;              0.00;         -10000.00;          -3332.00
-;;;;;;;;;;
-    ;1922.00.0.0.00.00;      RESTITUICOES;    ;          20000.00;           6664.00;          16180.83;              0.00;          16180.83;          -3819.17;           9516.83
-;;;;;;;;;;
-    ;1922.99.0.0.00.00;        OUTRAS RESTITUICOES;    ;          20000.00;           6664.00;          16180.83;              0.00;          16180.83;          -3819.17;           9516.83
-;;;;;;;;;;
-    ;1922.99.1.0.00.00;          OUTRAS RESTITUICOES;    ;          20000.00;           6664.00;          16180.83;              0.00;          16180.83;          -3819.17;           9516.83
-  85;1922.99.1.1.00.00;            OUTRAS RESTITUICOES - PRINCIPAL;   1;          20000.00;           6664.00;          16180.83;              0.00;          16180.83;          -3819.17;           9516.83
-;;;;;;;;;;
-    ;1990.00.0.0.00.00;    DEMAIS RECEITAS CORRENTES;    ;         157000.00;          52312.40;         570567.03;         175569.84;         746136.87;         589136.87;         693824.47
-;;;;;;;;;;
-    ;1990.01.0.0.00.00;        APORTES PERIODICOS PARA AMORTIZACAO DE DEFICIT ATUARIAL DO RPPS;    ;              0.00;              0.00;         546831.69;         173449.85;         720281.54;         720281.54;         720281.54
-;;;;;;;;;;
-    ;1990.01.1.0.00.00;          APORTES PERIODICOS PARA AMORTIZACAO DE DEFICIT ATUARIAL DO RPPS;    ;              0.00;              0.00;         546831.69;         173449.85;         720281.54;         720281.54;         720281.54
- 119;1990.01.1.1.00.00;            APORTES PERIODICOS PARA AMORTIZACAO DE DEFICIT ATUARIAL DO RPPS - PRINCIPAL;   1;              0.00;              0.00;         546831.69;         173449.85;         720281.54;         720281.54;         720281.54
-;;;;;;;;;;
-    ;1990.03.0.0.00.00;        COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREVIDENCIA DOS SERVIDORES;    ;          30000.00;           9996.00;              0.00;              0.00;              0.00;         -30000.00;          -9996.00
-;;;;;;;;;;
-    ;1990.03.1.0.00.00;          COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREVIDENCIA DOS SERVIDORES;    ;          30000.00;           9996.00;              0.00;              0.00;              0.00;         -30000.00;          -9996.00
-   8;1990.03.1.1.00.00;            COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREVIDENCIA DOS SERVIDORES - PRINCIPAL;   1;          30000.00;           9996.00;              0.00;              0.00;              0.00;         -30000.00;          -9996.00
-;;;;;;;;;;
-    ;1990.99.0.0.00.00;        OUTRAS RECEITAS;    ;         127000.00;          42316.40;          23735.34;           2119.99;          25855.33;        -101144.67;         -16461.07
-;;;;;;;;;;
-    ;1990.99.1.0.00.00;          OUTRAS RECEITAS - PRIMARIAS;    ;         127000.00;          42316.40;          23735.34;           2119.99;          25855.33;        -101144.67;         -16461.07
-;;;;;;;;;;
-    ;1990.99.1.1.00.00;            OUTRAS RECEITAS - PRIMARIAS - PRINCIPAL;    ;         102000.00;          33986.40;          17832.94;           2119.99;          19952.93;         -82047.07;         -14033.47
-  86;1990.99.1.1.00.01;                OUTRAS RECEITAS DIVERSAS - PREFEITURA;   1;          94000.00;          31320.80;          11546.96;           2119.99;          13666.95;         -80333.05;         -17653.85
-  87;1990.99.1.1.00.02;                FUNDO MUNICIPAL DE MEIO AMBIENTE;   1;           2000.00;            666.40;              0.00;              0.00;              0.00;          -2000.00;           -666.40
-  88;1990.99.1.1.00.03;                FUNDO SOCIAL DE SOLIDARIEDADE;   1;           2000.00;            666.40;           6126.50;              0.00;           6126.50;           4126.50;           5460.10
-  89;1990.99.1.1.00.04;                CASA ABRIGO;   1;           2000.00;            666.40;              0.00;              0.00;              0.00;          -2000.00;           -666.40
-  90;1990.99.1.1.00.05;                VIGILANCIA SANITARIA MUNICIPAL;   1;           2000.00;            666.40;            159.48;              0.00;            159.48;          -1840.52;           -506.92
-;;;;;;;;;;
-    ;1990.99.1.3.00.00;            OUTRAS RECEITAS DIVIDA ATIVA DE OUTROS TRIBUTOS;    ;          20000.00;           6664.00;           5184.55;              0.00;           5184.55;         -14815.45;          -1479.45
-  91;1990.99.1.3.01.00;              VIGILANCIA SANITARIA DIVIDA ATIVA DE OUTROS TRIBUTOS
-;   1;          20000.00;           6664.00;           5184.55;              0.00;           5184.55;         -14815.45;          -1479.45
-;;;;;;;;;;
-    ;1990.99.1.4.00.00;            OUTRAS RECEITAS - PRIMARIAS - DIVIDA ATIVA - MULTAS E JUROS;    ;           2000.00;            666.40;            614.20;              0.00;            614.20;          -1385.80;            -52.20
-  92;1990.99.1.4.01.00;              VIGILANCIA SANITARIA - PRIMARIAS - DIVIDA ATIVA - MULTAS E JUROS;   1;           2000.00;            666.40;            614.20;              0.00;            614.20;          -1385.80;            -52.20
-;;;;;;;;;;
-    ;1990.99.1.9.00.00;            OUTRAS RECEITAS DIVIDA ATIVA ATUALIZACAO  MONETARIA;    ;           3000.00;            999.60;            103.65;              0.00;            103.65;          -2896.35;           -895.95
-  93;1990.99.1.9.01.00;              VIGILANCIA SANITARIA DIVIDA ATIVA ATUALIZACAO  MONETARIA;   1;           3000.00;            999.60;            103.65;              0.00;            103.65;          -2896.35;           -895.95
-;;;;;;;;;;
-    ;2000.00.0.0.00.00;RECEITAS DE CAPITAL;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
-;;;;;;;;;;
-    ;2400.00.0.0.00.00;  TRANSFERENCIAS DE CAPITAL;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
-;;;;;;;;;;
-    ;2410.00.0.0.00.00;    TRANSFERENCIAS DA UNIAO E DE SUAS ENTIDADES;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
-;;;;;;;;;;
-    ;2418.00.0.0.00.00;      TRANSFERENCIAS DA UNIAO;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
-;;;;;;;;;;
-    ;2418.10.0.0.00.00;        TRANSFERENCIA DE CONVENIOS DA UNIAO E DE SUAS ENTIDADES;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
-;;;;;;;;;;
-    ;2418.10.2.0.00.00;          TRANSFERENCIAS DE CONVENIO DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
-;;;;;;;;;;
-    ;2418.10.2.1.00.00;            TRANSFERENCIAS DE CONVENIO DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO - PRINCIPAL;    ;              0.00;              0.00;         316765.60;              0.00;         316765.60;         316765.60;         316765.60
- 116;2418.10.2.1.00.01;                TRANSFERENCIA DE CONVENIO DA UNIAO - MOBILIARIO - PAR/FNDE ;   5;              0.00;              0.00;         156765.60;              0.00;         156765.60;         156765.60;         156765.60
- 117;2418.10.2.1.00.02;                TRANSFERENCIA DE CONVENIO DA UNIAO - ONIBUS ESCOLAR - PAR/FNDE ;   5;              0.00;              0.00;         160000.00;              0.00;         160000.00;         160000.00;         160000.00
-;;;;;;;;;;
-    ;7000.00.0.0.00.00;RECEITAS CORRENTES - INTRA OFSS;    ;        5920000.00;        1972544.00;         950079.94;         317045.05;        1267124.99;       -4652875.01;        -705419.01
-;;;;;;;;;;
-    ;7200.00.0.0.00.00;  CONTRIBUICOES - INTRA OFSS;    ;        5920000.00;        1972544.00;         950079.94;         317045.05;        1267124.99;       -4652875.01;        -705419.01
-;;;;;;;;;;
-    ;7210.00.0.0.00.00;    CONTRIBUICOES SOCIAIS - INTRA OFSS;    ;        5920000.00;        1972544.00;         950079.94;         317045.05;        1267124.99;       -4652875.01;        -705419.01
-;;;;;;;;;;
-    ;7210.04.0.0.00.00;        CONTRIBUICAO PARA O REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS - INTRA OFSS;    ;        5920000.00;        1972544.00;         950079.94;         317045.05;        1267124.99;       -4652875.01;        -705419.01
-;;;;;;;;;;
-    ;7210.04.1.0.00.00;          CONTRIBUICAO PATRONAL DE SERVIDOR ATIVO CIVIL PARA O RPPS - INTRA OFSS;    ;        5920000.00;        1972544.00;         950079.94;         317045.05;        1267124.99;       -4652875.01;        -705419.01
-;;;;;;;;;;
-    ;7210.04.1.1.00.00;            CONTRIBUICAO PATRONAL DE SERVIDOR ATIVO CIVIL PARA O RPPS - PRINCIPAL - INTRA OFSS;    ;        5920000.00;        1972544.00;         950079.94;         317045.05;        1267124.99;       -4652875.01;        -705419.01
-   9;7210.04.1.1.00.01;                CONTRIBUICAO PATRONAL P/ RPPS - PREFEITURA;   1;        4800000.00;        1599360.00;         659034.86;         214871.26;         873906.12;       -3926093.88;        -725453.88
-  10;7210.04.1.1.00.02;                CONTRIBUICAO PATRONAL P/ RPPS - CAMARA;   1;         130000.00;          43316.00;          25358.74;          11696.99;          37055.73;         -92944.27;          -6260.27
-  11;7210.04.1.1.00.03;                CONTRIBUICAO PATRONAL P/ RPPS - IPMP;   1;          30000.00;           9996.00;          95333.69;           2837.69;          98171.38;          68171.38;          88175.38
-  12;7210.04.1.1.00.04;                CONTRIBUICAO PREVIDENCIA EM REGIME DE PARCELAMENTO;   1;         950000.00;         316540.00;         170352.65;          87639.11;         257991.76;        -692008.24;         -58548.24
-  13;7210.04.1.1.00.05;                CONTRIBUICAO PATRONAL DE SERVIDOR ATIVO CIVIL P/ RPPS - MULTAS E JUROS - INTRA OFSS;   1;          10000.00;           3332.00;              0.00;              0.00;              0.00;         -10000.00;          -3332.00
-;;;;;;;;;;
-    ;9000.00.0.0.00.00;(-) DEDUCOES DE RECEITAS;    ;       -5733780.00;       -1910495.48;       -1621332.15;        -499051.98;       -2120384.13;        3613395.87;        -209888.65
-;;;;;;;;;;
-    ;9100.00.0.0.00.00;  DEDUCOES DE RECEITAS PARA FORMACAO DO FUNDEB;    ;       -5733780.00;       -1910495.48;       -1621332.15;        -499051.98;       -2120384.13;        3613395.87;        -209888.65
-  94;9100.00.0.0.00.01;                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - FPM;   1;       -2996000.00;        -998267.20;        -753610.70;        -336254.96;       -1089865.66;        1906134.34;         -91598.46
-  95;9100.00.0.0.00.02;                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - ITR;   1;          -2500.00;           -833.00;           -284.91;            -78.46;           -363.37;           2136.63;            469.63
-  96;9100.00.0.0.00.03;                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - ICMS LC No 87/96;   1;         -12480.00;          -4158.32;          -1867.12;          -1867.12;          -3734.24;           8745.76;            424.08
-  97;9100.00.0.0.00.04;                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - ICMS;   1;       -2372000.00;        -790350.40;        -638614.24;        -146147.77;        -784762.01;        1587237.99;           5588.39
-  98;9100.00.0.0.00.05;                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - IPVA;   1;        -332000.00;        -110622.40;        -221525.27;         -13053.88;        -234579.15;          97420.85;        -123956.75
-  99;9100.00.0.0.00.06;                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - IPI;   1;         -18800.00;          -6264.16;          -5429.91;          -1649.79;          -7079.70;          11720.30;           -815.54
-;;;;;;;;;;
-;TOTAL ORCAMETARIO;;;       60328000.00;       20101289.60;       18278537.07;        5568344.55;       23846881.62;      -36481118.38;        3745592.02;;;;;;;;;;;
-5801;113810600;REC. DE APLIC. FINANCEIRAS - CAMARA MUNIC.;   1;;;            504.06;            295.55;            799.61;            799.61;            799.61
-5801;113810600;DESPESAS DE MULTAS - A REGULARIZAR;   1;;;             70.41;             23.47;             93.88;             93.88;             93.88
-5802;113810800;SALARIO FAMILIA (INSS);   1;;;           2979.67;           1041.30;           4020.97;           4020.97;           4020.97
-5803;113810800;SALARIO FAMILIA (ESTATUTARIO);   1;;;          12560.49;           4455.48;          17015.97;          17015.97;          17015.97
-5810;113810800;SALARIO-FAMILIA FUNDACAO;   1;;;            283.47;             95.13;            378.60;            378.60;            378.60
-5807;113810900;SALARIO MATERNIDADE - INSS;   1;;;           2986.72;           2158.80;           5145.52;           5145.52;           5145.52
-5301;218810102;INSS - CAMARA MUNICIPAL;   1;;;           9136.46;           3489.47;          12625.93;          12625.93;          12625.93
-5301;218810102;INSS - INST. NAC. DE SEG. SOCIAL;   1;;;            435.60;              0.00;            435.60;            435.60;            435.60
-5301;218810102;INSS - FUNDACAO CULTURAL;   1;;;           6642.16;           2224.57;           8866.73;           8866.73;           8866.73
-5302;218810102;IPMP - CAMARA MUNICIPAL;   1;;;          11900.77;           3763.19;          15663.96;          15663.96;          15663.96
-5306;218810102;INSS - IPMP;   1;;;           1781.17;            320.00;           2101.17;           2101.17;           2101.17
-5321;218810102;INSS - INST. NAC. DO SEGURO SOCIAL;   1;;;          54315.76;          22062.19;          76377.95;          76377.95;          76377.95
-5323;218810102;IPMP - INST. DE PREV. MUNIC. PARAIBUNA;   1;;;         409142.69;         141798.32;         550941.01;         550941.01;         550941.01
-5302;218810104;IRRF - FUNDACAO CULTURAL;   1;;;           1284.79;            179.87;           1464.66;           1464.66;           1464.66
-5305;218810104;IRRF - CAMARA MUNICIPAL;   1;;;           9887.58;           4573.45;          14461.03;          14461.03;          14461.03
-5301;218810108;PENSOES ALIMENTICIAS - IPMP;   1;;;           3411.18;           1172.43;           4583.61;           4583.61;           4583.61
-5302;218810108;IRRF - IPMP;   1;;;          15577.75;           5835.92;          21413.67;          21413.67;          21413.67
-5307;218810108;ISSQN - CAMARA MUNICIPAL;   1;;;            183.16;             91.58;            274.74;            274.74;            274.74
-5302;218810110;PENSOES ALIMENTICIAS;   1;;;          34777.48;          11253.30;          46030.78;          46030.78;          46030.78
-5304;218810110;PENSOES ALIMENTICIAS - CAMARA MUNICIPAL;   1;;;           4311.00;           1437.00;           5748.00;           5748.00;           5748.00
-5308;218810111;CONV. ODONTOLOG. CAMARA;   1;;;           1074.84;            385.32;           1460.16;           1460.16;           1460.16
-5310;218810111;CONVENIO HOSPITALAR;   1;;;           3617.70;           1446.31;           5064.01;           5064.01;           5064.01
-5315;218810111;VALE SAUDE;   1;;;         100095.31;          32609.53;         132704.84;         132704.84;         132704.84
-5308;218810113;CONTRIBUICAO SINDICAL-IPMP;   1;;;              0.00;            116.22;            116.22;            116.22;            116.22
-5303;218810115;EMPRESTIMO C.E.F - CAMARA MUNICIPAL;   1;;;           9390.32;           3123.02;          12513.34;          12513.34;          12513.34
-5306;218810115;EMPRESTIMO NOSSA CAIXA - CAMARA MUNICIPAL;   1;;;          10359.51;           4822.80;          15182.31;          15182.31;          15182.31
-5315;218810115;EMPRESTIMO BANCO DO BRASIL - I.P.M.P.;   1;;;          40331.61;          13712.20;          54043.81;          54043.81;          54043.81
-5316;218810115;EMPRESTIMO C.E.F. - I.P.M.P.;   1;;;          35281.24;          12301.71;          47582.95;          47582.95;          47582.95
-5317;218810115;EMPRESTIMO BRADESCO - I.P.M.P.;   1;;;          13017.30;           4339.10;          17356.40;          17356.40;          17356.40
-5325;218810115;EMPRESTIMO SANTANDER;   1;;;         267434.35;          93493.83;         360928.18;         360928.18;         360928.18
-5327;218810115;EMPRESTIMO CEF;   1;;;         188782.55;          62260.89;         251043.44;         251043.44;         251043.44
-5328;218810115;EMPRESTIMO NOSSA CAIXA;   1;;;          10152.07;           2922.94;          13075.01;          13075.01;          13075.01
-5305;218810199;ANTECIPACAO VALE GAS;   1;;;          11766.00;           3922.00;          15688.00;          15688.00;          15688.00
-5309;218810199;PIS/COFINS/CONTRIB. SOCIAL-CAMARA;   1;;;            360.92;            167.14;            528.06;            528.06;            528.06
-5311;218810199;CONTRIB. SOCIAL S/ LUCRO LIQUIDO;   1;;;             91.58;             45.79;            137.37;            137.37;            137.37
-5313;218810199;JUROS DE APLICACAO;   1;;;           1414.50;            664.39;           2078.89;           2078.89;           2078.89
-5318;218810199;DROGABELLA;   1;;;           3358.61;           1421.13;           4779.74;           4779.74;           4779.74
-5324;218810199;CAPEMI;   1;;;            336.93;            113.46;            450.39;            450.39;            450.39
-5330;218810199;FARMACONDE;   1;;;           8771.97;           3959.68;          12731.65;          12731.65;          12731.65
-5401;218810199;HONORARIOS;   1;;;           2210.80;            370.54;           2581.34;           2581.34;           2581.34
-5501;351120200;REPASSE FUNDACAO CULTURAL;   1;;;         292500.00;          97500.00;         390000.00;         390000.00;         390000.00
-5501;451120200;DUODECIMO CAMARA MUNICIPAL;   1;;;         553050.00;         184350.00;         737400.00;         737400.00;         737400.00
-;;;;;;;;;;
-;TOTAL EXTRAORCAMENTARIO;;;;;        2135570.48;         730319.02;        2865889.50;;;;;;;;;;;;;
-;TOTAL DA RECEITA;;;;;       20414107.55;        6298663.57;       26712771.12;;;;;;;;;;;;;
-;SALDO FINANCEIRO DO EXERCICIO ANTERIOR;;;;;;;;;
-;Conta Movimento;;;;;;;        1846815.73;;
-;Conta Vinculada;;;;;;;        1896666.99;;
-;Caixa/Bancos/Autarquias;;;;;;;       50892995.57;;
-;;;;;;;;;;
-;TOTAL FINANCEIRO;;;;;;;       54636478.29;;
-;;;;;;;;;;
-;TOTAL DO BALANCETE;;;;;;;       81349249.41;;
+Ficha,Receita/Plano Contabil,Descricao,Fte.Rec./Aplic.,Orcada,Prevista,Anterior,No Mes,TOTAL,(Arrec. - Orc.),(Arrec. - Prog.),
+,,,,,,,,,,,
+    ,1000.00.0.0.00.00,RECEITAS CORRENTES,    ,       60141780.00,       20039241.08,       18633023.68,        5750351.48,       24383375.16,      -35758404.84,        4344134.08,
+,,,,,,,,,,,
+    ,1100.00.0.0.00.00,  IMPOSTOS, TAXAS E CONTRIBUICOES DE MELHORIA,    ,       11328000.00,        3774489.60,        2980893.47,        1640748.48,        4621641.95,       -6706358.05,         847152.35
+,,,,,,,,,,,
+    ,1110.00.0.0.00.00,    IMPOSTOS,    ,       10800000.00,        3598560.00,        2921858.77,        1616586.28,        4538445.05,       -6261554.95,         939885.05,
+,,,,,,,,,,,
+    ,1113.00.0.0.00.00,      IMPOSTOS SOBRE A RENDA E PROVENTOS DE QUALQUER NATUREZA,    ,         800000.00,         266560.00,         140038.30,          51632.50,         191670.80,        -608329.20,         -74889.20,
+,,,,,,,,,,,
+    ,1113.03.0.0.00.00,        IMPOSTO SOBRE A RENDA - RETIDO NA FONTE,    ,         800000.00,         266560.00,         140038.30,          51632.50,         191670.80,        -608329.20,         -74889.20,
+,,,,,,,,,,,
+    ,1113.03.1.0.00.00,          IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - TRABALHO,    ,         700000.00,         233240.00,         117339.09,          47494.61,         164833.70,        -535166.30,         -68406.30,
+1,1113.03.1.1.00.00,            IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - TRABALHO - PRINCIPAL,1,         700000.00,         233240.00,         117339.09,          47494.61,         164833.70,        -535166.30,         -68406.30,
+,,,,,,,,,,,
+    ,1113.03.4.0.00.00,          IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - OUTROS RENDIMENTOS,    ,         100000.00,          33320.00,          22699.21,           4137.89,          26837.10,         -73162.90,          -6482.90,
+2,1113.03.4.1.00.00,            IMPOSTO SOBRE A RENDA - RETIDO NA FONTE - OUTROS RENDIMENTOS - PRINCIPAL,1,         100000.00,          33320.00,          22699.21,           4137.89,          26837.10,         -73162.90,          -6482.90,
+,,,,,,,,,,,
+    ,1118.00.0.0.00.00,      IMPOSTOS ESPECIFICOS DE ESTADOS/DF MUNICIPIOS,    ,       10000000.00,        3332000.00,        2781820.47,        1564953.78,        4346774.25,       -5653225.75,        1014774.25,
+,,,,,,,,,,,
+    ,1118.01.0.0.00.00,        IMPOSTOS SOBRE O PATRIMONIO PARA ESTADOS/DF/MUNICIPIOS,    ,        2720000.00,         906304.00,         361005.38,          61070.86,         422076.24,       -2297923.76,        -484227.76,
+,,,,,,,,,,,
+    ,1118.01.1.0.00.00,          IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA,    ,        2320000.00,         773024.00,         187234.20,          34867.46,         222101.66,       -2097898.34,        -550922.34,
+,,,,,,,,,,,
+    ,1118.01.1.1.00.00,            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - PRINCIPAL,    ,        1600000.00,         533120.00,           3105.39,              0.00,           3105.39,       -1596894.61,        -530014.61,
+3,1118.01.1.1.00.01,                IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL URBANA - PRINCIPAL,1,        1000000.00,         333200.00,           1643.94,              0.00,           1643.94,        -998356.06,        -331556.06,
+4,1118.01.1.1.00.02,                IMPOSTO SOBRE A PROPRIEDADE PREDIAL URBANA - PRINCIPAL,1,         600000.00,         199920.00,           1461.45,              0.00,           1461.45,        -598538.55,        -198458.55,
+5,1118.01.1.2.00.00,            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - MULTAS E JUROS,1,          20000.00,           6664.00,           2111.27,              0.00,           2111.27,         -17888.73,          -4552.73,
+6,1118.01.1.3.00.00,            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - DIVIDA ATIVA,1,         360000.00,         119952.00,         149341.30,          24820.71,         174162.01,        -185837.99,          54210.01,
+7,1118.01.1.4.00.00,            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - DIVIDA ATIVA - MULTAS E JUROS,1,         290000.00,          96628.00,          25196.07,           7678.29,          32874.36,        -257125.64,         -63753.64,
+8,1118.01.1.9.00.00,            IMPOSTO SOBRE A PROPRIEDADE PREDIAL E TERRITORIAL URBANA - DIVIDA ATIVA - ATUALIZACAO MONETARIA,1,          50000.00,          16660.00,           7480.17,           2368.46,           9848.63,         -40151.37,          -6811.37,
+,,,,,,,,,,,
+    ,1118.01.4.0.00.00,          IMPOSTO SOBRE TRANSMISSAO ÔøΩgINTER VIVOSÔøΩh DE BENS IMOVEIS E DE DIREITOS REAIS SOBRE IMOVEIS,    ,         400000.00,         133280.00,         173771.18,          26203.40,         199974.58,        -200025.42,          66694.58,
+9,1118.01.4.1.00.00,            IMPOSTO SOBRE TRANSMISSAO ÔøΩgINTER VIVOSÔøΩh DE BENS IMOVEIS E DE DIREITOS REAIS SOBRE IMOVEIS - PRINCIPAL,1,         400000.00,         133280.00,         173592.48,          26203.40,         199795.88,        -200204.12,          66515.88,
+,,,,,,,,,,,
+    ,1118.01.4.2.00.00,            IMPOSTO SOBRE TRANSMISSAO ÔøΩgINTER VIVOSÔøΩh DE BENS IMOVEIS E DE DIREITOS REAIS SOBRE IMOVEIS - MULTAS E JUROS,    ,              0.00,              0.00,            178.70,              0.00,            178.70,            178.70,            178.70,
+100,1118.01.4.2.00.01,                MULTAS E JUROS DE MORA DO ITBI ,1,              0.00,              0.00,            178.70,              0.00,            178.70,            178.70,            178.70,
+,,,,,,,,,,,
+    ,1118.02.0.0.00.00,        IMPOSTOS SOBRE A PRODUCAO, CIRCULACAO DE MERCADORIAS E SERVICOS,    ,        7280000.00,        2425696.00,        2420815.09,        1503882.92,        3924698.01,       -3355301.99,        1499002.01
+,,,,,,,,,,,
+    ,1118.02.3.0.00.00,          IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA,    ,        7280000.00,        2425696.00,        2420815.09,        1503882.92,        3924698.01,       -3355301.99,        1499002.01,
+10,1118.02.3.1.00.00,            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - PRINCIPAL,1,        7160000.00,        2385712.00,        2383929.84,        1496612.89,        3880542.73,       -3279457.27,        1494830.73,
+11,1118.02.3.2.00.00,            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - MULTAS E JUROS,1,          20000.00,           6664.00,           4903.47,           1519.55,           6423.02,         -13576.98,           -240.98,
+12,1118.02.3.3.00.00,            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - DIVIDA ATIVA,1,          75000.00,          24990.00,          12266.43,           2932.00,          15198.43,         -59801.57,          -9791.57,
+13,1118.02.3.4.00.00,            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - DIVIDA ATIVA - MULTAS E JUROS,1,          10000.00,           3332.00,          14418.09,           2389.76,          16807.85,           6807.85,          13475.85,
+14,1118.02.3.8.00.00,            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - ATUALIZACAO MONETARIA,1,           5000.00,           1666.00,              4.40,              0.00,              4.40,          -4995.60,          -1661.60,
+15,1118.02.3.9.00.00,            IMPOSTO SOBRE SERVICOS DE QUALQUER NATUREZA - DIVIDA ATIVA - ATUALIZACAO MONETARIA,1,          10000.00,           3332.00,           5292.86,            428.72,           5721.58,          -4278.42,           2389.58,
+,,,,,,,,,,,
+    ,1120.00.0.0.00.00,    TAXAS,    ,         528000.00,         175929.60,          59034.70,          24162.20,          83196.90,        -444803.10,         -92732.70,
+,,,,,,,,,,,
+    ,1121.00.0.0.00.00,      TAXAS PELO EXERCICIO DO PODER DE POLICIA,    ,         402000.00,         133946.40,          42094.96,          18133.00,          60227.96,        -341772.04,         -73718.44,
+,,,,,,,,,,,
+    ,1121.01.0.0.00.00,        TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO,    ,         402000.00,         133946.40,          42094.96,          18133.00,          60227.96,        -341772.04,         -73718.44
+,,,,,,,,,,,
+    ,1121.01.1.0.00.00,          TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO,    ,         402000.00,         133946.40,          42094.96,          18133.00,          60227.96,        -341772.04,         -73718.44
+,,,,,,,,,,,
+    ,1121.01.1.1.00.00,            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - PRINCIPAL,    ,         402000.00,         133946.40,          26772.73,          12247.07,          39019.80,        -362980.20,         -94926.60
+,,,,,,,,,,,
+    ,1121.01.1.1.01.00,              TAXAS DE LICENCA P/ FUNCIONAMENTO ESTAB. COMERCIAL,    ,         150000.00,          49980.00,           1077.37,            532.70,           1610.07,        -148389.93,         -48369.93,
+16,1121.01.1.1.01.01,                TAXAS DE LICENCA P/ FUNCIONAMENTO ESTAB. COMERCIAL - PRINCIPAL,1,         150000.00,          49980.00,           1077.37,            532.70,           1610.07,        -148389.93,         -48369.93,
+,,,,,,,,,,,
+    ,1121.01.1.1.02.00,              TAXAS DE PUBLICIDADE,    ,          60000.00,          19992.00,            467.17,              0.00,            467.17,         -59532.83,         -19524.83,
+17,1121.01.1.1.02.01,                TAXAS DE PUBLICIDADE - PRINCIPAL,1,          60000.00,          19992.00,            467.17,              0.00,            467.17,         -59532.83,         -19524.83,
+,,,,,,,,,,,
+    ,1121.01.1.1.03.00,              TAXAS DE FUNCINAMENTO DE ESTABECIMENTOS HOR. ESP.,    ,           6000.00,           1999.20,              0.00,              0.00,              0.00,          -6000.00,          -1999.20,
+18,1121.01.1.1.03.01,                TAXAS DE FUNCINAMENTO DE ESTABECIMENTOS HOR. ESP. - PRINCIPAL,1,           6000.00,           1999.20,              0.00,              0.00,              0.00,          -6000.00,          -1999.20,
+,,,,,,,,,,,
+    ,1121.01.1.1.04.00,              TAXAS DE LICENCA P/ EXECUCAO DE OBRAS,    ,          60000.00,          19992.00,           2370.56,             71.56,           2442.12,         -57557.88,         -17549.88,
+19,1121.01.1.1.04.01,                TAXAS DE LICENCA P/ EXECUCAO DE OBRAS - PRINCIPAL,1,          60000.00,          19992.00,           2370.56,             71.56,           2442.12,         -57557.88,         -17549.88,
+,,,,,,,,,,,
+    ,1121.01.1.1.05.00,              TAXAS DE UTILIZACAO DE AREA DE DOMINIO PUBLICO,    ,         120000.00,          39984.00,          22857.63,          11642.81,          34500.44,         -85499.56,          -5483.56,
+20,1121.01.1.1.05.01,                TAXAS DE UTILIZACAO DE AREA DE DOMINIO PUBLICO - PRINCIPAL,1,         120000.00,          39984.00,          22857.63,          11642.81,          34500.44,         -85499.56,          -5483.56,
+,,,,,,,,,,,
+    ,1121.01.1.1.99.00,              OUTRAS TAXAS DE INSPECAO,  CONTROLE E FISCALIZACAO,    ,           6000.00,           1999.20,              0.00,              0.00,              0.00,          -6000.00,          -1999.20
+21,1121.01.1.1.99.01,                OUTRAS TAXAS DE INSPECAO,  CONTROLE E FISCALIZACAO - PRINCIPAL,1,           6000.00,           1999.20,              0.00,              0.00,              0.00,          -6000.00,          -1999.20
+,,,,,,,,,,,
+    ,1121.01.1.3.00.00,            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - DIVIDA ATIVA,    ,              0.00,              0.00,           9700.15,           2011.73,          11711.88,          11711.88,          11711.88
+104,1121.01.1.3.00.01,                RECEITA DA D.A DE OUTROS TRIBUTOS ,1,              0.00,              0.00,           9700.15,           2011.73,          11711.88,          11711.88,          11711.88,
+,,,,,,,,,,,
+    ,1121.01.1.4.00.00,            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - DIVIDA ATIVA - MULTAS E JUROS,    ,              0.00,              0.00,           4056.07,           2770.92,           6826.99,           6826.99,           6826.99
+105,1121.01.1.4.00.01,                MULTAS E JUROS DE MORA DA D.A. S/OUTROS TRIBUTOS,1,              0.00,              0.00,           4056.07,           2770.92,           6826.99,           6826.99,           6826.99,
+,,,,,,,,,,,
+    ,1121.01.1.8.00.00,            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - ATUALIZACAO MONETARIA,    ,              0.00,              0.00,            403.20,            191.44,            594.64,            594.64,            594.64
+101,1121.01.1.8.00.01,                MULTAS E JUROS DE MORA DE OUTROS TRIBUTOS ,1,              0.00,              0.00,            403.20,            191.44,            594.64,            594.64,            594.64,
+,,,,,,,,,,,
+    ,1121.01.1.9.00.00,            TAXAS DE INSPECAO, CONTROLE E FISCALIZACAO - DIVIDA ATIVA - ATUALIZACAO MONETARIA,    ,              0.00,              0.00,           1162.81,            911.84,           2074.65,           2074.65,           2074.65
+114,1121.01.1.9.00.01,                ATUAL. MONET. DA D.A TAXAS E CONTR. DE MELHORIAS,1,              0.00,              0.00,           1162.81,            911.84,           2074.65,           2074.65,           2074.65,
+,,,,,,,,,,,
+    ,1122.00.0.0.00.00,      TAXAS PELA PRESTACAO DE SERVICOS,    ,         126000.00,          41983.20,          16939.74,           6029.20,          22968.94,        -103031.06,         -19014.26,
+,,,,,,,,,,,
+    ,1122.01.0.0.00.00,        TAXAS PELA PRESTACAO DE SERVICOS,    ,         126000.00,          41983.20,          16939.74,           6029.20,          22968.94,        -103031.06,         -19014.26,
+,,,,,,,,,,,
+    ,1122.01.1.0.00.00,          TAXAS PELA PRESTACAO DE SERVICOS,    ,         126000.00,          41983.20,          16939.74,           6029.20,          22968.94,        -103031.06,         -19014.26,
+,,,,,,,,,,,
+    ,1122.01.1.1.00.00,            TAXAS PELA PRESTACAO DE SERVICOS - PRINCIPAL,    ,         126000.00,          41983.20,          16939.74,           6029.20,          22968.94,        -103031.06,         -19014.26,
+,,,,,,,,,,,
+    ,1122.01.1.1.01.00,              TAXA DE CEMITERIOS,    ,           6000.00,           1999.20,            874.00,            151.00,           1025.00,          -4975.00,           -974.20,
+22,1122.01.1.1.01.01,                TAXA DE CEMITERIOS - PRINCIPAL,1,           6000.00,           1999.20,            874.00,            151.00,           1025.00,          -4975.00,           -974.20,
+,,,,,,,,,,,
+    ,1122.01.1.1.99.00,              OUTRAS TAXAS PELA PRESTACAO DE SERVICOS ,    ,         120000.00,          39984.00,          16065.74,           5878.20,          21943.94,         -98056.06,         -18040.06,
+23,1122.01.1.1.99.01,                OUTRAS TAXAS PELA PRESTACAO DE SERVICOS - PRINCIPAL,1,         120000.00,          39984.00,          16065.74,           5878.20,          21943.94,         -98056.06,         -18040.06,
+,,,,,,,,,,,
+    ,1200.00.0.0.00.00,  CONTRIBUICOES,    ,        2247000.00,         748700.40,         444353.37,         149245.79,         593599.16,       -1653400.84,        -155101.24,
+,,,,,,,,,,,
+    ,1210.00.0.0.00.00,    CONTRIBUICOES SOCIAIS,    ,        1887000.00,         628748.40,         431149.10,         144200.63,         575349.73,       -1311650.27,         -53398.67,
+,,,,,,,,,,,
+    ,1210.04.0.0.00.00,        CONTRIBUICAO PARA O REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS,    ,        1887000.00,         628748.40,         431149.10,         144200.63,         575349.73,       -1311650.27,         -53398.67,
+,,,,,,,,,,,
+    ,1210.04.2.0.00.00,          CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS,    ,        1885000.00,         628082.00,         431149.10,         144200.63,         575349.73,       -1309650.27,         -52732.27,
+,,,,,,,,,,,
+    ,1210.04.2.1.00.00,            CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - PRINCIPAL,    ,        1880000.00,         626416.00,         431149.10,         144200.63,         575349.73,       -1304650.27,         -51066.27,
+1,1210.04.2.1.00.01,                CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - PREFEITURA - PRINCIPAL,1,        1800000.00,         599760.00,         416835.75,         136473.96,         553309.71,       -1246690.29,         -46450.29,
+2,1210.04.2.1.00.02,                CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - CAMARA - PRINCIPAL,1,          50000.00,          16660.00,           7750.36,           4150.48,          11900.84,         -38099.16,          -4759.16,
+3,1210.04.2.1.00.03,                CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - IPMP - PRINCIPAL,1,          30000.00,           9996.00,           6562.99,           3576.19,          10139.18,         -19860.82,            143.18,
+4,1210.04.2.2.00.00,            CONTRIBUICAO DO SERVIDOR ATIVO CIVIL PARA O RPPS - MULTAS E JUROS,1,           5000.00,           1666.00,              0.00,              0.00,              0.00,          -5000.00,          -1666.00,
+,,,,,,,,,,,
+    ,1210.04.3.0.00.00,          CONTRIBUICAO DOS SERVIDORES INATIVOS CIVIS PARA O RPPS,    ,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+5,1210.04.3.1.00.00,            CONTRIBUICAO DOS SERVIDORES INATIVOS CIVIS PARA O RPPS - PRINCIPAL,1,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+,,,,,,,,,,,
+    ,1210.04.4.0.00.00,          CONTRIBUICAO DOS PENSIONISTAS CIVIS PARA O RPPS,    ,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+6,1210.04.4.1.00.00,            CONTRIBUICAO DOS PENSIONISTAS CIVIS PARA O RPPS - PRINCIPAL,1,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+,,,,,,,,,,,
+    ,1240.00.0.0.00.00,    CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA,    ,         360000.00,         119952.00,          13204.27,           5045.16,          18249.43,        -341750.57,        -101702.57,
+,,,,,,,,,,,
+    ,1240.00.1.0.00.00,          CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA,    ,         360000.00,         119952.00,          13204.27,           5045.16,          18249.43,        -341750.57,        -101702.57,
+24,1240.00.1.1.00.00,            CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA - PRINCIPAL,1,         360000.00,         119952.00,          13204.27,           5045.16,          18249.43,        -341750.57,        -101702.57,
+,,,,,,,,,,,
+    ,1300.00.0.0.00.00,  RECEITA PATRIMONIAL,    ,        2399780.00,         799606.68,        2695007.72,          11049.16,        2706056.88,         306276.88,        1906450.20,
+,,,,,,,,,,,
+    ,1320.00.0.0.00.00,    VALORES MOBILIARIOS,    ,        2399780.00,         799606.68,        2695007.72,          11049.16,        2706056.88,         306276.88,        1906450.20,
+,,,,,,,,,,,
+    ,1321.00.0.0.00.00,      JUROS E CORRECOES MONETARIAS,    ,        2398780.00,         799273.48,        2695007.72,          11049.16,        2706056.88,         307276.88,        1906783.40,
+,,,,,,,,,,,
+    ,1321.00.1.0.00.00,          REMUNERACAO DE DEPOSITOS BANCARIOS,    ,         598780.00,         199513.48,          70789.67,         -22149.44,          48640.23,        -550139.77,        -150873.25,
+,,,,,,,,,,,
+    ,1321.00.1.1.00.00,            REMUNERACAO DE DEPOSITOS BANCARIOS - PRINCIPAL,    ,         598780.00,         199513.48,          70789.67,         -22149.44,          48640.23,        -550139.77,        -150873.25,
+25,1321.00.1.1.01.00,              REMUNERACAO DE DEPOSITOS BANCARIOS - FUNDEB,2,          40000.00,          13328.00,          21624.90,         -16195.84,           5429.06,         -34570.94,          -7898.94,
+,,,,,,,,,,,
+    ,1321.00.1.1.02.00,              REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE,    ,         120000.00,          39984.00,           5034.90,           6115.10,          11150.00,        -108850.00,         -28834.00,
+26,1321.00.1.1.02.01,                REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE TESOURO 15%,1,          10000.00,           3332.00,            295.99,            232.37,            528.36,          -9471.64,          -2803.64,
+27,1321.00.1.1.02.02,                REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE ESTADO,2,          10000.00,           3332.00,             77.90,             41.44,            119.34,          -9880.66,          -3212.66,
+28,1321.00.1.1.02.03,                REMUNERACAO DE DEPOSITOS BANCARIOS - SAUDE UNIAO,5,         100000.00,          33320.00,           4661.01,           5841.29,          10502.30,         -89497.70,         -22817.70,
+,,,,,,,,,,,
+    ,1321.00.1.1.03.00,              REMUNERACAO DE DEPOSITOS BANCARIOS - ENSINO,    ,          70000.00,          23324.00,          25311.95,         -20010.43,           5301.52,         -64698.48,         -18022.48,
+29,1321.00.1.1.03.01,                REMUNERACAO DE DEPOSITOS BANCARIOS - ENSINO TESOURO 25%,1,          10000.00,           3332.00,            392.30,            255.19,            647.49,          -9352.51,          -2684.51,
+30,1321.00.1.1.03.02,                REMUNERACAO DE DEPOSITOS BANCARIOS - ENSINO UNIAO,5,          60000.00,          19992.00,          24919.65,         -20265.62,           4654.03,         -55345.97,         -15337.97,
+,,,,,,,,,,,
+    ,1321.00.1.1.04.00,              REMUNERACAO DE DEPOSITOS BANCARIOS - ASSISTENCIA SOCIAL,    ,          24000.00,           7996.80,           8160.24,          -5312.86,           2847.38,         -21152.62,          -5149.42,
+31,1321.00.1.1.04.01,                REMUNERACAO DE DEPOSITOS BANCARIOS - ASS. SOCIAL TESOURO,1,           2000.00,            666.40,             82.56,             77.73,            160.29,          -1839.71,           -506.11,
+32,1321.00.1.1.04.02,                REMUNERACAO DE DEPOSITOS BANCARIOS - ASS. SOCIAL ESTADO,2,           2000.00,            666.40,           5094.69,          -4816.20,            278.49,          -1721.51,           -387.91,
+33,1321.00.1.1.04.03,                REMUNERACAO DE DEPOSITOS BANCARIOS - ASS. SOCIAL UNIAO,5,          20000.00,           6664.00,           2982.99,           -574.39,           2408.60,         -17591.40,          -4255.40,
+,,,,,,,,,,,
+    ,1321.00.1.1.05.00,              REMUNERACAO DE DEPOSITOS BANCARIOS - VINCULADOS,    ,           7000.00,           2332.40,            717.97,            737.36,           1455.33,          -5544.67,           -877.07,
+34,1321.00.1.1.05.01,                REMUNERACAO DE DEPOSITOS BANCARIOS VINCULADOS - CIDE,1,           2000.00,            666.40,            274.60,            283.77,            558.37,          -1441.63,           -108.03,
+115,1321.00.1.1.05.02,                REMUNERACAO DE DEPOSITOS BANCARIOS VINCULADOS - ESTADO,2,              0.00,              0.00,             89.22,             84.01,            173.23,            173.23,            173.23,
+35,1321.00.1.1.05.03,                REMUNERACAO DE DEPOSITOS BANCARIOS VINCULADOS - UNIAO,5,           5000.00,           1666.00,            354.15,            369.58,            723.73,          -4276.27,           -942.27,
+36,1321.00.1.1.06.00,              REMUNERACAO DE DEPOSITOS BANCARIOS NAO VINCULADOS,1,         337780.00,         112548.28,           9939.71,          12517.23,          22456.94,        -315323.06,         -90091.34,
+,,,,,,,,,,,
+    ,1321.00.4.0.00.00,          REMUNERACAO DOS RECURSOS DO REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS,    ,        1800000.00,         599760.00,        2624218.05,          33198.60,        2657416.65,         857416.65,        2057656.65,
+,,,,,,,,,,,
+    ,1321.00.4.1.00.00,            REMUNERACAO DOS RECURSOS DO REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS - PRINCIPAL,    ,        1800000.00,         599760.00,        2624218.05,          33198.60,        2657416.65,         857416.65,        2057656.65,
+7,1321.00.4.1.00.01,                REMUNERACAO DOS RECURSOS DO REG. PROPR. PREV. SOCIAL - RPPS - PRINCIPAL,1,        1800000.00,         599760.00,        2624218.05,          33198.60,        2657416.65,         857416.65,        2057656.65,
+,,,,,,,,,,,
+    ,1322.00.0.0.00.00,      DIVIDENDOS,    ,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+,,,,,,,,,,,
+    ,1322.00.1.0.00.00,          DIVIDENDOS,    ,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+37,1322.00.1.1.00.00,            DIVIDENDOS - PRINCIPAL,1,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+,,,,,,,,,,,
+    ,1700.00.0.0.00.00,  TRANSFERENCIAS CORRENTES,    ,       43980000.00,       14654136.00,       11926021.26,        3773738.21,       15699759.47,      -28280240.53,        1045623.47,
+,,,,,,,,,,,
+    ,1710.00.0.0.00.00,    TRANSFERENCIAS DA UNIAO E DE SUAS ENTIDADES,    ,       21688720.00,        7226681.52,        5268031.43,        2412274.93,        7680306.36,      -14008413.64,         453624.84,
+,,,,,,,,,,,
+    ,1718.00.0.0.00.00,      TRANSFERENCIAS DA UNIAO - ESPECIFICA E/M,    ,       21688720.00,        7226681.52,        5268031.43,        2412274.93,        7680306.36,      -14008413.64,         453624.84,
+,,,,,,,,,,,
+    ,1718.01.0.0.00.00,        PARTICIPACAO NA RECEITA DA UNIAO,    ,       16292500.00,        5428661.00,        3769478.47,        1681667.25,        5451145.72,      -10841354.28,          22484.72,
+,,,,,,,,,,,
+    ,1718.01.2.0.00.00,          COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - COTA MENSAL,    ,       14980000.00,        4991336.00,        3768053.74,        1681274.94,        5449328.68,       -9530671.32,         457992.68,
+38,1718.01.2.1.00.00,            COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - COTA MENSAL - PRINCIPAL,1,       14980000.00,        4991336.00,        3768053.74,        1681274.94,        5449328.68,       -9530671.32,         457992.68,
+,,,,,,,,,,,
+    ,1718.01.3.0.00.00,          COTA-PARTE DO FUNDO DE PARTICIPACAO DO MUNICIPIOS - 1% COTA ENTREGUE NO MES DE DEZEMBRO,    ,         650000.00,         216580.00,              0.00,              0.00,              0.00,        -650000.00,        -216580.00,
+39,1718.01.3.1.00.00,            COTA-PARTE DO FUNDO DE PARTICIPACAO DO MUNICIPIOS - 1% COTA ENTREGUE NO MES DE DEZEMBRO - PRINCIPAL,1,         650000.00,         216580.00,              0.00,              0.00,              0.00,        -650000.00,        -216580.00,
+,,,,,,,,,,,
+    ,1718.01.4.0.00.00,          COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - 1% COTA ENTREGUE NO MES DE JULHO,    ,         650000.00,         216580.00,              0.00,              0.00,              0.00,        -650000.00,        -216580.00,
+40,1718.01.4.1.00.00,            COTA-PARTE DO FUNDO DE PARTICIPACAO DOS MUNICIPIOS - 0,5% COTA ENTREGUE NO MES DE JULHO - PRINCIPAL,1,         650000.00,         216580.00,              0.00,              0.00,              0.00,        -650000.00,        -216580.00
+,,,,,,,,,,,
+    ,1718.01.5.0.00.00,          COTA-PARTE DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL,    ,          12500.00,           4165.00,           1424.73,            392.31,           1817.04,         -10682.96,          -2347.96,
+41,1718.01.5.1.00.00,            COTA-PARTE DO IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL RURAL - PRINCIPAL,1,          12500.00,           4165.00,           1424.73,            392.31,           1817.04,         -10682.96,          -2347.96,
+,,,,,,,,,,,
+    ,1718.02.0.0.00.00,        TRANSFERENCIA DA COMPENSACAO FINANCEIRA PELA EXPLORACAO DE RECURSOS NATURAIS,    ,        1607000.00,         535452.40,         472167.01,         170166.98,         642333.99,        -964666.01,         106881.59,
+,,,,,,,,,,,
+    ,1718.02.1.0.00.00,          COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS HIDRICOS,    ,         730000.00,         243236.00,         167442.29,          74279.18,         241721.47,        -488278.53,          -1514.53,
+42,1718.02.1.1.00.00,            COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS HIDRICOS - PRINCIPAL,1,         730000.00,         243236.00,         167442.29,          74279.18,         241721.47,        -488278.53,          -1514.53,
+,,,,,,,,,,,
+    ,1718.02.2.0.00.00,          COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS MINERAIS - CFEM,    ,          62000.00,          20658.40,           5559.53,           2265.59,           7825.12,         -54174.88,         -12833.28,
+43,1718.02.2.1.00.00,            COTA-PARTE DA COMPENSACAO FINANCEIRA DE RECURSOS MINERAIS - CFEM - PRINCIPAL,1,          62000.00,          20658.40,           5559.53,           2265.59,           7825.12,         -54174.88,         -12833.28,
+,,,,,,,,,,,
+    ,1718.02.3.0.00.00,          COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DE PETROLEO - LEI No 7.990/89,    ,         645000.00,         214914.00,         245474.44,          77507.64,         322982.08,        -322017.92,         108068.08,
+44,1718.02.3.1.00.00,            COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DE PETROLEO - LEI No 7.990/89 - PRINCIPAL,1,         645000.00,         214914.00,         245474.44,          77507.64,         322982.08,        -322017.92,         108068.08,
+,,,,,,,,,,,
+    ,1718.02.6.0.00.00,          COTA-PARTE DO FUNDO ESPECIAL DO PETROLEO - FEP,    ,         170000.00,          56644.00,          53690.75,          16114.57,          69805.32,        -100194.68,          13161.32,
+45,1718.02.6.1.00.00,            COTA-PARTE DO FUNDO ESPECIAL DO PETROLEO - FEP - PRINCIPAL,1,         170000.00,          56644.00,          53690.75,          16114.57,          69805.32,        -100194.68,          13161.32,
+,,,,,,,,,,,
+    ,1718.03.0.0.00.00,        TRANSFERENCIA DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS - REPASSES FUNDO A FUNDO,    ,        1830000.00,         609756.00,         634608.72,         317245.51,         951854.23,        -878145.77,         342098.23,
+,,,,,,,,,,,
+    ,1718.03.1.0.00.00,          TRANSFERENCIA DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS - REPASSES FUNDO A FUNDO,    ,        1830000.00,         609756.00,         634608.72,         317245.51,         951854.23,        -878145.77,         342098.23,
+,,,,,,,,,,,
+    ,1718.03.1.1.00.00,            TRANSFERENCIA DE RECURSOS DO SISTEMA UNICO DE SAUDE - SUS - REPASSES FUNDO A FUNDO - PRINCIPAL,    ,        1830000.00,         609756.00,         634608.72,         317245.51,         951854.23,        -878145.77,         342098.23,
+,,,,,,,,,,,
+    ,1718.03.1.1.01.00,              ATENCAO BASICA SAUDE,    ,        1310000.00,         436492.00,         392161.47,         122347.66,         514509.13,        -795490.87,          78017.13,
+46,1718.03.1.1.01.01,                PISO DE ATENCAO BASICA - PAB FIXO,5,         510000.00,         169932.00,         127161.99,          56011.83,         183173.82,        -326826.18,          13241.82,
+47,1718.03.1.1.01.02,                ESTRATEGIA SAUDE DA FAMILIA - ESF,5,         360000.00,         119952.00,              0.00,              0.00,              0.00,        -360000.00,        -119952.00,
+48,1718.03.1.1.01.03,                PROGRAMA AGENTE COMUNITARIO DA SAUDE - PACS,5,         300000.00,          99960.00,         117624.00,          30420.00,         148044.00,        -151956.00,          48084.00,
+49,1718.03.1.1.01.04,                PROGRAMA SAUDE BUCAL,5,          80000.00,          26656.00,           6191.66,           3095.83,           9287.49,         -70712.51,         -17368.51,
+50,1718.03.1.1.01.05,                PROGRAMA MELHORIA ACESSO E QUALIDADE - PMAQ,5,          60000.00,          19992.00,              0.00,              0.00,              0.00,         -60000.00,         -19992.00,
+118,1718.03.1.1.01.06,                PISO DE ATENCAO BASICA - PAB VARIAVEL,5,              0.00,              0.00,         141183.82,          32820.00,         174003.82,         174003.82,         174003.82,
+,,,,,,,,,,,
+    ,1718.03.1.1.02.00,              VIGILANCIA EM SUDE,    ,         100000.00,          33320.00,           7583.94,              0.00,           7583.94,         -92416.06,         -25736.06,
+51,1718.03.1.1.02.01,                VIGILANCIA EPIDEMIOLOGICA E AMBIENTAL EM SAUDE,5,          40000.00,          13328.00,              0.00,              0.00,              0.00,         -40000.00,         -13328.00,
+52,1718.03.1.1.02.02,                VIGILANCIA SANITARIA,5,          60000.00,          19992.00,           7583.94,              0.00,           7583.94,         -52416.06,         -12408.06,
+,,,,,,,,,,,
+    ,1718.03.1.1.03.00,              ASSISTENCIA FARMACEUTICA,    ,          60000.00,          19992.00,           5343.83,           5343.83,          10687.66,         -49312.34,          -9304.34,
+53,1718.03.1.1.03.01,                PROGRAMA ASSISTENCIA FARMACEUTICA BASICA,5,          60000.00,          19992.00,           5343.83,           5343.83,          10687.66,         -49312.34,          -9304.34,
+,,,,,,,,,,,
+    ,1718.03.1.1.04.00,              MEDIA E ALTA COMPLEXIDADE AMBULATORIAL E HOSPITALAR,    ,         360000.00,         119952.00,          79519.48,          25474.55,         104994.03,        -255005.97,         -14957.97,
+54,1718.03.1.1.04.01,                TETO MUNICIPAL DE MEDIA E ALTA COMPLEXIDADE AMBULATORIAL,5,         360000.00,         119952.00,          79519.48,          25474.55,         104994.03,        -255005.97,         -14957.97,
+,,,,,,,,,,,
+    ,1718.03.1.1.05.00,              PROGRAMA SERVICOS DE ATENCAO BASICA DE SAUDE,    ,              0.00,              0.00,         150000.00,              0.00,         150000.00,         150000.00,         150000.00,
+120,1718.03.1.1.05.01,                ESTRUTURACAO REDE DE SERVICOS ATENCAO BASICA SAUDE,5,              0.00,              0.00,         150000.00,              0.00,         150000.00,         150000.00,         150000.00,
+,,,,,,,,,,,
+    ,1718.03.1.1.06.00,              PROGRAMA APOIO FINANCEIRO DA UNIAO P/ A SAUDE,    ,              0.00,              0.00,              0.00,         164079.47,         164079.47,         164079.47,         164079.47,
+121,1718.03.1.1.06.01,                CUSTEIO DAS ACOES E SERVICOS DA SAUDE,5,              0.00,              0.00,              0.00,         164079.47,         164079.47,         164079.47,         164079.47,
+,,,,,,,,,,,
+    ,1718.05.0.0.00.00,        TRANSFERENCIAS DE RECURSOS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE,    ,        1503000.00,         500799.60,         378502.51,         166449.58,         544952.09,        -958047.91,          44152.49,
+,,,,,,,,,,,
+    ,1718.05.1.0.00.00,          TRANSFERENCIAS DO SALARIO-EDUCACAO,    ,        1100000.00,         366520.00,         359657.11,          97078.59,         456735.70,        -643264.30,          90215.70,
+55,1718.05.1.1.00.00,            TRANSFERENCIAS DO SALARIO-EDUCACAO - PRINCIPAL,5,        1100000.00,         366520.00,         359657.11,          97078.59,         456735.70,        -643264.30,          90215.70,
+,,,,,,,,,,,
+    ,1718.05.3.0.00.00,          TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAE,    ,         150000.00,          49980.00,          18845.40,          18845.40,          37690.80,        -112309.20,         -12289.20,
+56,1718.05.3.1.00.00,            TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAE - PRINCIPAL,5,         150000.00,          49980.00,          18845.40,          18845.40,          37690.80,        -112309.20,         -12289.20,
+,,,,,,,,,,,
+    ,1718.05.4.0.00.00,          TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE DO ESCOLAR - PNATE,    ,         250000.00,          83300.00,              0.00,          50525.59,          50525.59,        -199474.41,         -32774.41,
+57,1718.05.4.1.00.00,            TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE DO ESCOLAR - PNATE - PRINCIPAL,5,         250000.00,          83300.00,              0.00,          50525.59,          50525.59,        -199474.41,         -32774.41,
+,,,,,,,,,,,
+    ,1718.05.9.0.00.00,          OUTRAS TRANSFERENCIAS DIRETAS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE,    ,           3000.00,            999.60,              0.00,              0.00,              0.00,          -3000.00,           -999.60,
+,,,,,,,,,,,
+    ,1718.05.9.1.00.00,            OUTRAS TRANSFERENCIAS DIRETAS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE - PRINCIPAL,    ,           3000.00,            999.60,              0.00,              0.00,              0.00,          -3000.00,           -999.60,
+,,,,,,,,,,,
+    ,1718.05.9.1.01.00,              OUTRAS TRANSFERENCIAS DIRETAS DO FUNDO NACIONAL DO DESENVOLVIMENTO DA EDUCACAO - FNDE,    ,           3000.00,            999.60,              0.00,              0.00,              0.00,          -3000.00,           -999.60,
+58,1718.05.9.1.01.01,                TRANSFERENCIAS DIRETAS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR - PNAP - PRINCIPAL,5,           3000.00,            999.60,              0.00,              0.00,              0.00,          -3000.00,           -999.60,
+,,,,,,,,,,,
+    ,1718.06.0.0.00.00,        TRANSFERENCIA FINANCEIRA DO ICMS - DESONERACAO - L.C. No 87/96,    ,          62400.00,          20791.68,           9335.62,           9335.62,          18671.24,         -43728.76,          -2120.44,
+,,,,,,,,,,,
+    ,1718.06.1.0.00.00,          TRANSFERENCIA FINANCEIRA DO ICMS - DESONERACAO - L.C. No 87/96,    ,          62400.00,          20791.68,           9335.62,           9335.62,          18671.24,         -43728.76,          -2120.44,
+59,1718.06.1.1.00.00,            TRANSFERENCIA FINANCEIRA DO ICMS - DESONERACAO - L.C. No 87/96 - PRINCIPAL,1,          62400.00,          20791.68,           9335.62,           9335.62,          18671.24,         -43728.76,          -2120.44,
+,,,,,,,,,,,
+    ,1718.10.0.0.00.00,        TRANSFERENCIAS DE CONVENIOS DA UNIAO E DE SUAS ENTIDADES,    ,         393820.00,         131220.84,           3939.10,          67409.99,          71349.09,        -322470.91,         -59871.75,
+,,,,,,,,,,,
+    ,1718.10.1.0.00.00,          TRANSFERENCIAS DE CONVENIOS DA UNIAO PARA O SISTEMA UNICO DE SAUDE - SUS,    ,         157500.00,          52479.00,            103.40,           -103.40,              0.00,        -157500.00,         -52479.00,
+,,,,,,,,,,,
+    ,1718.10.1.1.00.00,            TRANSFERENCIAS DE CONVENIOS DA UNIAO PARA O SISTEMA UNICO DE SAUDE - SUS - PRINCIPAL,    ,         157500.00,          52479.00,            103.40,           -103.40,              0.00,        -157500.00,         -52479.00,
+60,1718.10.1.1.00.01,                TRANSFERENCIAS DE CONVENIOS - S.A.M.U.,5,         157500.00,          52479.00,            103.40,           -103.40,              0.00,        -157500.00,         -52479.00,
+,,,,,,,,,,,
+    ,1718.10.2.0.00.00,          TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO,    ,          15000.00,           4998.00,              0.00,              0.00,              0.00,         -15000.00,          -4998.00,
+,,,,,,,,,,,
+    ,1718.10.2.1.00.00,            TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO - PRINCIPAL,    ,          15000.00,           4998.00,              0.00,              0.00,              0.00,         -15000.00,          -4998.00,
+61,1718.10.2.1.00.01,                PROGRAMA DINHEIRO DIRETO NA ESCOLA - PDDE,5,          15000.00,           4998.00,              0.00,              0.00,              0.00,         -15000.00,          -4998.00,
+,,,,,,,,,,,
+    ,1718.10.3.0.00.00,          TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE ASSISTENCIA SOCIAL,    ,         221320.00,          73743.84,           3835.70,          67513.39,          71349.09,        -149970.91,          -2394.75,
+,,,,,,,,,,,
+    ,1718.10.3.1.00.00,            TRANSFERENCIAS DE CONVENIOS DA UNIAO DESTINADAS A PROGRAMAS DE ASSISTENCIA SOCIAL - PRINCIPAL,    ,         221320.00,          73743.84,           3835.70,          67513.39,          71349.09,        -149970.91,          -2394.75,
+62,1718.10.3.1.00.01,                PROGRAMA INDICE GESTAO DESCENTRALIZADA -  IGDBF,5,          44000.00,          14660.80,           1893.74,           1881.60,           3775.34,         -40224.66,         -10885.46,
+63,1718.10.3.1.00.02,                PROGRAMA PRIMEIRA INFANCIA NO SUAS,5,          60000.00,          19992.00,              0.00,              0.00,              0.00,         -60000.00,         -19992.00,
+64,1718.10.3.1.00.03,                PROGRAMA PROTECAO SOCIAL BASICA - PSB,5,          30000.00,           9996.00,              0.00,              0.00,              0.00,         -30000.00,          -9996.00,
+65,1718.10.3.1.00.04,                PROGRAMA PROTECAO ESPECIAL ALTA COMPLEXIDADE - PSEAC,5,          77520.00,          25829.68,              0.00,          65631.79,          65631.79,         -11888.21,          39802.11,
+66,1718.10.3.1.00.05,                GESTAO DO PROGRAMA BOLSA FAMILIA E CADASTRO UNICO,5,           9800.00,           3265.36,           1941.96,              0.00,           1941.96,          -7858.04,          -1323.40,
+,,,,,,,,,,,
+    ,1720.00.0.0.00.00,    TRANSFERENCIAS DOS ESTADOS E DO DISTRITO FEDERAL E DE SUAS ENTIDADES,    ,       14131280.00,        4708542.48,        4384212.57,         864337.00,        5248549.57,       -8882730.43,         540007.09,
+,,,,,,,,,,,
+    ,1728.00.0.0.00.00,      TRANSFERENCIAS DOS ESTADOS - ESPECIFICA E/M,    ,       14131280.00,        4708542.48,        4384212.57,         864337.00,        5248549.57,       -8882730.43,         540007.09,
+,,,,,,,,,,,
+    ,1728.01.0.0.00.00,        PARTICIPACAO NA RECEITA DOS ESTADOS,    ,       13674000.00,        4556176.80,        4337365.11,         816859.50,        5154224.61,       -8519775.39,         598047.81,
+,,,,,,,,,,,
+    ,1728.01.1.0.00.00,          COTA-PARTE DO ICMS,    ,       11860000.00,        3951752.00,        3198600.27,         730738.96,        3929339.23,       -7930660.77,         -22412.77,
+67,1728.01.1.1.00.00,            COTA-PARTE DO ICMS - PRINCIPAL,1,       11860000.00,        3951752.00,        3198600.27,         730738.96,        3929339.23,       -7930660.77,         -22412.77,
+,,,,,,,,,,,
+    ,1728.01.2.0.00.00,          COTA-PARTE DO IPVA,    ,        1660000.00,         553112.00,        1097064.96,          65270.02,        1162334.98,        -497665.02,         609222.98,
+68,1728.01.2.1.00.00,            COTA-PARTE DO IPVA - PRINCIPAL,1,        1660000.00,         553112.00,        1097064.96,          65270.02,        1162334.98,        -497665.02,         609222.98,
+,,,,,,,,,,,
+    ,1728.01.3.0.00.00,          COTA-PARTE DO IPI - MUNICIPIOS,    ,          94000.00,          31320.80,          27164.44,           8249.01,          35413.45,         -58586.55,           4092.65,
+69,1728.01.3.1.00.00,            COTA-PARTE DO IPI - MUNICIPIOS - PRINCIPAL,1,          94000.00,          31320.80,          27164.44,           8249.01,          35413.45,         -58586.55,           4092.65,
+,,,,,,,,,,,
+    ,1728.01.4.0.00.00,          COTA-PARTE DA CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO,    ,          60000.00,          19992.00,          14535.44,          12601.51,          27136.95,         -32863.05,           7144.95,
+70,1728.01.4.1.00.00,            COTA-PARTE DA CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO - PRINCIPAL,1,          60000.00,          19992.00,          14535.44,          12601.51,          27136.95,         -32863.05,           7144.95,
+,,,,,,,,,,,
+    ,1728.02.0.0.00.00,        TRANSFERENCIA DA COTA-PARTE DA COMPENSACAO FINANCEIRA (25%),    ,          40000.00,          13328.00,          10124.46,           4926.37,          15050.83,         -24949.17,           1722.83,
+,,,,,,,,,,,
+    ,1728.02.3.0.00.00,          COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DO PETROLEO - LEI No 7.990/89, ARTIGO 9o,    ,          40000.00,          13328.00,          10124.46,           4926.37,          15050.83,         -24949.17,           1722.83
+71,1728.02.3.1.00.00,            COTA-PARTE ROYALTIES - COMPENSACAO FINANCEIRA PELA PRODUCAO DO PETROLEO - LEI No 7.990/89, ARTIGO 9o - PRINCIPAL,1,          40000.00,          13328.00,          10124.46,           4926.37,          15050.83,         -24949.17,           1722.83
+,,,,,,,,,,,
+    ,1728.03.0.0.00.00,        TRANSFERENCIA DE RECURSOS DO ESTADO PARA PROGRAMAS DE SAUDE - REPASSE FUNDO A FUNDO,    ,         265000.00,          88298.00,           3585.14,          24927.00,          28512.14,        -236487.86,         -59785.86,
+,,,,,,,,,,,
+    ,1728.03.1.0.00.00,          TRANSFERENCIA DE RECURSOS DO ESTADO PARA PROGRAMAS DE SAUDE - REPASSE FUNDO A FUNDO,    ,         265000.00,          88298.00,           3585.14,          24927.00,          28512.14,        -236487.86,         -59785.86,
+,,,,,,,,,,,
+    ,1728.03.1.1.00.00,            TRANSFERENCIA DE RECURSOS DO ESTADO PARA PROGRAMAS DE SAUDE - REPASSE FUNDO A FUNDO - PRINCIPAL,    ,         265000.00,          88298.00,           3585.14,          24927.00,          28512.14,        -236487.86,         -59785.86,
+72,1728.03.1.1.00.01,                PROGRAMA QUALIS MAIS,2,         120000.00,          39984.00,              0.00,          22656.00,          22656.00,         -97344.00,         -17328.00,
+73,1728.03.1.1.00.02,                PROGRAMA DIABETE MELLITUS,2,           1000.00,            333.20,              0.00,              0.00,              0.00,          -1000.00,           -333.20,
+74,1728.03.1.1.00.03,                PROGRAMA INSUMOS GLICEMIA,2,           6000.00,           1999.20,           2177.00,           2271.00,           4448.00,          -1552.00,           2448.80,
+75,1728.03.1.1.00.04,                PROGRAMA DOSE CERTA,2,          10000.00,           3332.00,              0.00,              0.00,              0.00,         -10000.00,          -3332.00,
+76,1728.03.1.1.00.05,                PROGRAMA SORRIA SAO PAULO - MATERIAL,2,          33600.00,          11195.52,              0.00,              0.00,              0.00,         -33600.00,         -11195.52,
+77,1728.03.1.1.00.06,                PROGRAMA SORRIA SAO PAULO - SERVICOS,2,          14400.00,           4798.08,              0.00,              0.00,              0.00,         -14400.00,          -4798.08,
+78,1728.03.1.1.00.07,                PROGRAMA ATENCAO BASICA,2,          60000.00,          19992.00,             88.14,              0.00,             88.14,         -59911.86,         -19903.86,
+79,1728.03.1.1.00.08,                PROGRAMA AEDES  AEGYPTI,2,          20000.00,           6664.00,           1320.00,              0.00,           1320.00,         -18680.00,          -5344.00,
+,,,,,,,,,,,
+    ,1728.10.0.0.00.00,        TRANSFERENCIA DE CONVENIOS DOS ESTADOS E DO DISTRITO FEDERAL E DE SUAS ENTIDADES,    ,         152280.00,          50739.68,          33137.86,          17624.13,          50761.99,        -101518.01,             22.31,
+,,,,,,,,,,,
+    ,1728.10.9.0.00.00,          OUTRAS TRANSFERENCIAS DE CONVENIO DOS ESTADOS,    ,         152280.00,          50739.68,          33137.86,          17624.13,          50761.99,        -101518.01,             22.31,
+,,,,,,,,,,,
+    ,1728.10.9.1.00.00,            OUTRAS TRANSFERENCIAS DE CONVENIO DOS ESTADOS - PRINCIPAL,    ,         152280.00,          50739.68,          33137.86,          17624.13,          50761.99,        -101518.01,             22.31,
+80,1728.10.9.1.00.01,                PROGRAMA SOCIAL ESPECIAL ALTA COMPLEXIDADE,2,          21600.00,           7197.12,           1800.00,           7400.40,           9200.40,         -12399.60,           2003.28,
+81,1728.10.9.1.00.02,                PROGRAMA SOCIAL ESPECIAL MEDIA COMPLEXIDADE,2,           9000.00,           2998.80,           1750.00,            500.00,           2250.00,          -6750.00,           -748.80,
+82,1728.10.9.1.00.03,                PROGRAMA SOCIAL BASICO - PSB,2,         121680.00,          40543.76,          29587.86,           9723.73,          39311.59,         -82368.41,          -1232.17,
+,,,,,,,,,,,
+    ,1750.00.0.0.00.00,    TRANSFERENCIAS DE OUTRAS INSTITUICOES PUBLICAS,    ,        8160000.00,        2718912.00,        2273777.26,         497126.28,        2770903.54,       -5389096.46,          51991.54,
+,,,,,,,,,,,
+    ,1758.00.0.0.00.00,      TRANSFERENCIAS DE OUTRAS INSTITUICOES PUBLICAS - ESPECIFICA E/M,    ,        8160000.00,        2718912.00,        2273777.26,         497126.28,        2770903.54,       -5389096.46,          51991.54,
+,,,,,,,,,,,
+    ,1758.01.0.0.00.00,        TRANSFERENCIAS DE RECURSOS DO FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO - FUNDEB,    ,        8160000.00,        2718912.00,        2273777.26,         497126.28,        2770903.54,       -5389096.46,          51991.54,
+,,,,,,,,,,,
+    ,1758.01.1.0.00.00,          TRANSFERENCIAS DE RECURSOS DO FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO - FUNDEB,    ,        8160000.00,        2718912.00,        2273777.26,         497126.28,        2770903.54,       -5389096.46,          51991.54,
+83,1758.01.1.1.00.00,            TRANSFERENCIAS DE RECURSOS DO FUNDO DE MANUTENCAO E DESENVOLVIMENTO DA EDUCACAO BASICA E DE VALORIZACAO DOS PROFISSIONAIS DA EDUCACAO - FUNDEB - PRINCIPAL,2,        8160000.00,        2718912.00,        2273777.26,         497126.28,        2770903.54,       -5389096.46,          51991.54,
+,,,,,,,,,,,
+    ,1900.00.0.0.00.00,  OUTRAS RECEITAS CORRENTES,    ,         187000.00,          62308.40,         586747.86,         175569.84,         762317.70,         575317.70,         700009.30,
+,,,,,,,,,,,
+    ,1920.00.0.0.00.00,    INDENIZACOES, RESTITUICOES E RESSARCIMENTOS,    ,          30000.00,           9996.00,          16180.83,              0.00,          16180.83,         -13819.17,           6184.83
+,,,,,,,,,,,
+    ,1921.00.0.0.00.00,      INDENIZACOES,    ,          10000.00,           3332.00,              0.00,              0.00,              0.00,         -10000.00,          -3332.00,
+,,,,,,,,,,,
+    ,1921.99.0.0.00.00,        OUTRAS INDENIZACOES,    ,          10000.00,           3332.00,              0.00,              0.00,              0.00,         -10000.00,          -3332.00,
+,,,,,,,,,,,
+    ,1921.99.1.0.00.00,          OUTRAS INDENIZACOES,    ,          10000.00,           3332.00,              0.00,              0.00,              0.00,         -10000.00,          -3332.00,
+84,1921.99.1.1.00.00,            OUTRAS INDENIZACOES - PRINCIPAL,1,          10000.00,           3332.00,              0.00,              0.00,              0.00,         -10000.00,          -3332.00,
+,,,,,,,,,,,
+    ,1922.00.0.0.00.00,      RESTITUICOES,    ,          20000.00,           6664.00,          16180.83,              0.00,          16180.83,          -3819.17,           9516.83,
+,,,,,,,,,,,
+    ,1922.99.0.0.00.00,        OUTRAS RESTITUICOES,    ,          20000.00,           6664.00,          16180.83,              0.00,          16180.83,          -3819.17,           9516.83,
+,,,,,,,,,,,
+    ,1922.99.1.0.00.00,          OUTRAS RESTITUICOES,    ,          20000.00,           6664.00,          16180.83,              0.00,          16180.83,          -3819.17,           9516.83,
+85,1922.99.1.1.00.00,            OUTRAS RESTITUICOES - PRINCIPAL,1,          20000.00,           6664.00,          16180.83,              0.00,          16180.83,          -3819.17,           9516.83,
+,,,,,,,,,,,
+    ,1990.00.0.0.00.00,    DEMAIS RECEITAS CORRENTES,    ,         157000.00,          52312.40,         570567.03,         175569.84,         746136.87,         589136.87,         693824.47,
+,,,,,,,,,,,
+    ,1990.01.0.0.00.00,        APORTES PERIODICOS PARA AMORTIZACAO DE DEFICIT ATUARIAL DO RPPS,    ,              0.00,              0.00,         546831.69,         173449.85,         720281.54,         720281.54,         720281.54,
+,,,,,,,,,,,
+    ,1990.01.1.0.00.00,          APORTES PERIODICOS PARA AMORTIZACAO DE DEFICIT ATUARIAL DO RPPS,    ,              0.00,              0.00,         546831.69,         173449.85,         720281.54,         720281.54,         720281.54,
+119,1990.01.1.1.00.00,            APORTES PERIODICOS PARA AMORTIZACAO DE DEFICIT ATUARIAL DO RPPS - PRINCIPAL,1,              0.00,              0.00,         546831.69,         173449.85,         720281.54,         720281.54,         720281.54,
+,,,,,,,,,,,
+    ,1990.03.0.0.00.00,        COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREVIDENCIA DOS SERVIDORES,    ,          30000.00,           9996.00,              0.00,              0.00,              0.00,         -30000.00,          -9996.00,
+,,,,,,,,,,,
+    ,1990.03.1.0.00.00,          COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREVIDENCIA DOS SERVIDORES,    ,          30000.00,           9996.00,              0.00,              0.00,              0.00,         -30000.00,          -9996.00,
+8,1990.03.1.1.00.00,            COMPENSACOES FINANCEIRAS ENTRE O REGIME GERAL E OS REGIMES PROPRIOS DE PREVIDENCIA DOS SERVIDORES - PRINCIPAL,1,          30000.00,           9996.00,              0.00,              0.00,              0.00,         -30000.00,          -9996.00,
+,,,,,,,,,,,
+    ,1990.99.0.0.00.00,        OUTRAS RECEITAS,    ,         127000.00,          42316.40,          23735.34,           2119.99,          25855.33,        -101144.67,         -16461.07,
+,,,,,,,,,,,
+    ,1990.99.1.0.00.00,          OUTRAS RECEITAS - PRIMARIAS,    ,         127000.00,          42316.40,          23735.34,           2119.99,          25855.33,        -101144.67,         -16461.07,
+,,,,,,,,,,,
+    ,1990.99.1.1.00.00,            OUTRAS RECEITAS - PRIMARIAS - PRINCIPAL,    ,         102000.00,          33986.40,          17832.94,           2119.99,          19952.93,         -82047.07,         -14033.47,
+86,1990.99.1.1.00.01,                OUTRAS RECEITAS DIVERSAS - PREFEITURA,1,          94000.00,          31320.80,          11546.96,           2119.99,          13666.95,         -80333.05,         -17653.85,
+87,1990.99.1.1.00.02,                FUNDO MUNICIPAL DE MEIO AMBIENTE,1,           2000.00,            666.40,              0.00,              0.00,              0.00,          -2000.00,           -666.40,
+88,1990.99.1.1.00.03,                FUNDO SOCIAL DE SOLIDARIEDADE,1,           2000.00,            666.40,           6126.50,              0.00,           6126.50,           4126.50,           5460.10,
+89,1990.99.1.1.00.04,                CASA ABRIGO,1,           2000.00,            666.40,              0.00,              0.00,              0.00,          -2000.00,           -666.40,
+90,1990.99.1.1.00.05,                VIGILANCIA SANITARIA MUNICIPAL,1,           2000.00,            666.40,            159.48,              0.00,            159.48,          -1840.52,           -506.92,
+,,,,,,,,,,,
+    ,1990.99.1.3.00.00,            OUTRAS RECEITAS DIVIDA ATIVA DE OUTROS TRIBUTOS,    ,          20000.00,           6664.00,           5184.55,              0.00,           5184.55,         -14815.45,          -1479.45,
+91,1990.99.1.3.01.00,              VIGILANCIA SANITARIA DIVIDA ATIVA DE OUTROS TRIBUTOS,,,,,,,,,
+,1,          20000.00,           6664.00,           5184.55,              0.00,           5184.55,         -14815.45,          -1479.45,,,
+,,,,,,,,,,,
+    ,1990.99.1.4.00.00,            OUTRAS RECEITAS - PRIMARIAS - DIVIDA ATIVA - MULTAS E JUROS,    ,           2000.00,            666.40,            614.20,              0.00,            614.20,          -1385.80,            -52.20,
+92,1990.99.1.4.01.00,              VIGILANCIA SANITARIA - PRIMARIAS - DIVIDA ATIVA - MULTAS E JUROS,1,           2000.00,            666.40,            614.20,              0.00,            614.20,          -1385.80,            -52.20,
+,,,,,,,,,,,
+    ,1990.99.1.9.00.00,            OUTRAS RECEITAS DIVIDA ATIVA ATUALIZACAO  MONETARIA,    ,           3000.00,            999.60,            103.65,              0.00,            103.65,          -2896.35,           -895.95,
+93,1990.99.1.9.01.00,              VIGILANCIA SANITARIA DIVIDA ATIVA ATUALIZACAO  MONETARIA,1,           3000.00,            999.60,            103.65,              0.00,            103.65,          -2896.35,           -895.95,
+,,,,,,,,,,,
+    ,2000.00.0.0.00.00,RECEITAS DE CAPITAL,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+,,,,,,,,,,,
+    ,2400.00.0.0.00.00,  TRANSFERENCIAS DE CAPITAL,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+,,,,,,,,,,,
+    ,2410.00.0.0.00.00,    TRANSFERENCIAS DA UNIAO E DE SUAS ENTIDADES,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+,,,,,,,,,,,
+    ,2418.00.0.0.00.00,      TRANSFERENCIAS DA UNIAO,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+,,,,,,,,,,,
+    ,2418.10.0.0.00.00,        TRANSFERENCIA DE CONVENIOS DA UNIAO E DE SUAS ENTIDADES,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+,,,,,,,,,,,
+    ,2418.10.2.0.00.00,          TRANSFERENCIAS DE CONVENIO DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+,,,,,,,,,,,
+    ,2418.10.2.1.00.00,            TRANSFERENCIAS DE CONVENIO DA UNIAO DESTINADAS A PROGRAMAS DE EDUCACAO - PRINCIPAL,    ,              0.00,              0.00,         316765.60,              0.00,         316765.60,         316765.60,         316765.60,
+116,2418.10.2.1.00.01,                TRANSFERENCIA DE CONVENIO DA UNIAO - MOBILIARIO - PAR/FNDE ,5,              0.00,              0.00,         156765.60,              0.00,         156765.60,         156765.60,         156765.60,
+117,2418.10.2.1.00.02,                TRANSFERENCIA DE CONVENIO DA UNIAO - ONIBUS ESCOLAR - PAR/FNDE ,5,              0.00,              0.00,         160000.00,              0.00,         160000.00,         160000.00,         160000.00,
+,,,,,,,,,,,
+    ,7000.00.0.0.00.00,RECEITAS CORRENTES - INTRA OFSS,    ,        5920000.00,        1972544.00,         950079.94,         317045.05,        1267124.99,       -4652875.01,        -705419.01,
+,,,,,,,,,,,
+    ,7200.00.0.0.00.00,  CONTRIBUICOES - INTRA OFSS,    ,        5920000.00,        1972544.00,         950079.94,         317045.05,        1267124.99,       -4652875.01,        -705419.01,
+,,,,,,,,,,,
+    ,7210.00.0.0.00.00,    CONTRIBUICOES SOCIAIS - INTRA OFSS,    ,        5920000.00,        1972544.00,         950079.94,         317045.05,        1267124.99,       -4652875.01,        -705419.01,
+,,,,,,,,,,,
+    ,7210.04.0.0.00.00,        CONTRIBUICAO PARA O REGIME PROPRIO DE PREVIDENCIA SOCIAL - RPPS - INTRA OFSS,    ,        5920000.00,        1972544.00,         950079.94,         317045.05,        1267124.99,       -4652875.01,        -705419.01,
+,,,,,,,,,,,
+    ,7210.04.1.0.00.00,          CONTRIBUICAO PATRONAL DE SERVIDOR ATIVO CIVIL PARA O RPPS - INTRA OFSS,    ,        5920000.00,        1972544.00,         950079.94,         317045.05,        1267124.99,       -4652875.01,        -705419.01,
+,,,,,,,,,,,
+    ,7210.04.1.1.00.00,            CONTRIBUICAO PATRONAL DE SERVIDOR ATIVO CIVIL PARA O RPPS - PRINCIPAL - INTRA OFSS,    ,        5920000.00,        1972544.00,         950079.94,         317045.05,        1267124.99,       -4652875.01,        -705419.01,
+9,7210.04.1.1.00.01,                CONTRIBUICAO PATRONAL P/ RPPS - PREFEITURA,1,        4800000.00,        1599360.00,         659034.86,         214871.26,         873906.12,       -3926093.88,        -725453.88,
+10,7210.04.1.1.00.02,                CONTRIBUICAO PATRONAL P/ RPPS - CAMARA,1,         130000.00,          43316.00,          25358.74,          11696.99,          37055.73,         -92944.27,          -6260.27,
+11,7210.04.1.1.00.03,                CONTRIBUICAO PATRONAL P/ RPPS - IPMP,1,          30000.00,           9996.00,          95333.69,           2837.69,          98171.38,          68171.38,          88175.38,
+12,7210.04.1.1.00.04,                CONTRIBUICAO PREVIDENCIA EM REGIME DE PARCELAMENTO,1,         950000.00,         316540.00,         170352.65,          87639.11,         257991.76,        -692008.24,         -58548.24,
+13,7210.04.1.1.00.05,                CONTRIBUICAO PATRONAL DE SERVIDOR ATIVO CIVIL P/ RPPS - MULTAS E JUROS - INTRA OFSS,1,          10000.00,           3332.00,              0.00,              0.00,              0.00,         -10000.00,          -3332.00,
+,,,,,,,,,,,
+    ,9000.00.0.0.00.00,(-) DEDUCOES DE RECEITAS,    ,       -5733780.00,       -1910495.48,       -1621332.15,        -499051.98,       -2120384.13,        3613395.87,        -209888.65,
+,,,,,,,,,,,
+    ,9100.00.0.0.00.00,  DEDUCOES DE RECEITAS PARA FORMACAO DO FUNDEB,    ,       -5733780.00,       -1910495.48,       -1621332.15,        -499051.98,       -2120384.13,        3613395.87,        -209888.65,
+94,9100.00.0.0.00.01,                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - FPM,1,       -2996000.00,        -998267.20,        -753610.70,        -336254.96,       -1089865.66,        1906134.34,         -91598.46,
+95,9100.00.0.0.00.02,                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - ITR,1,          -2500.00,           -833.00,           -284.91,            -78.46,           -363.37,           2136.63,            469.63,
+96,9100.00.0.0.00.03,                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - ICMS LC No 87/96,1,         -12480.00,          -4158.32,          -1867.12,          -1867.12,          -3734.24,           8745.76,            424.08,
+97,9100.00.0.0.00.04,                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - ICMS,1,       -2372000.00,        -790350.40,        -638614.24,        -146147.77,        -784762.01,        1587237.99,           5588.39,
+98,9100.00.0.0.00.05,                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - IPVA,1,        -332000.00,        -110622.40,        -221525.27,         -13053.88,        -234579.15,          97420.85,        -123956.75,
+99,9100.00.0.0.00.06,                (-) DEDUCOES DE RECEITA P/ FORMACAO DO FUNDEB - IPI,1,         -18800.00,          -6264.16,          -5429.91,          -1649.79,          -7079.70,          11720.30,           -815.54,
+5801,113810600,REC. DE APLIC. FINANCEIRAS - CAMARA MUNIC.,1,,,            504.06,            295.55,            799.61,            799.61,            799.61,
+5801,113810600,DESPESAS DE MULTAS - A REGULARIZAR,1,,,             70.41,             23.47,             93.88,             93.88,             93.88,
+5802,113810800,SALARIO FAMILIA (INSS),1,,,           2979.67,           1041.30,           4020.97,           4020.97,           4020.97,
+5803,113810800,SALARIO FAMILIA (ESTATUTARIO),1,,,          12560.49,           4455.48,          17015.97,          17015.97,          17015.97,
+5810,113810800,SALARIO-FAMILIA FUNDACAO,1,,,            283.47,             95.13,            378.60,            378.60,            378.60,
+5807,113810900,SALARIO MATERNIDADE - INSS,1,,,           2986.72,           2158.80,           5145.52,           5145.52,           5145.52,
+5301,218810102,INSS - CAMARA MUNICIPAL,1,,,           9136.46,           3489.47,          12625.93,          12625.93,          12625.93,
+5301,218810102,INSS - INST. NAC. DE SEG. SOCIAL,1,,,            435.60,              0.00,            435.60,            435.60,            435.60,
+5301,218810102,INSS - FUNDACAO CULTURAL,1,,,           6642.16,           2224.57,           8866.73,           8866.73,           8866.73,
+5302,218810102,IPMP - CAMARA MUNICIPAL,1,,,          11900.77,           3763.19,          15663.96,          15663.96,          15663.96,
+5306,218810102,INSS - IPMP,1,,,           1781.17,            320.00,           2101.17,           2101.17,           2101.17,
+5321,218810102,INSS - INST. NAC. DO SEGURO SOCIAL,1,,,          54315.76,          22062.19,          76377.95,          76377.95,          76377.95,
+5323,218810102,IPMP - INST. DE PREV. MUNIC. PARAIBUNA,1,,,         409142.69,         141798.32,         550941.01,         550941.01,         550941.01,
+5302,218810104,IRRF - FUNDACAO CULTURAL,1,,,           1284.79,            179.87,           1464.66,           1464.66,           1464.66,
+5305,218810104,IRRF - CAMARA MUNICIPAL,1,,,           9887.58,           4573.45,          14461.03,          14461.03,          14461.03,
+5301,218810108,PENSOES ALIMENTICIAS - IPMP,1,,,           3411.18,           1172.43,           4583.61,           4583.61,           4583.61,
+5302,218810108,IRRF - IPMP,1,,,          15577.75,           5835.92,          21413.67,          21413.67,          21413.67,
+5307,218810108,ISSQN - CAMARA MUNICIPAL,1,,,            183.16,             91.58,            274.74,            274.74,            274.74,
+5302,218810110,PENSOES ALIMENTICIAS,1,,,          34777.48,          11253.30,          46030.78,          46030.78,          46030.78,
+5304,218810110,PENSOES ALIMENTICIAS - CAMARA MUNICIPAL,1,,,           4311.00,           1437.00,           5748.00,           5748.00,           5748.00,
+5308,218810111,CONV. ODONTOLOG. CAMARA,1,,,           1074.84,            385.32,           1460.16,           1460.16,           1460.16,
+5310,218810111,CONVENIO HOSPITALAR,1,,,           3617.70,           1446.31,           5064.01,           5064.01,           5064.01,
+5315,218810111,VALE SAUDE,1,,,         100095.31,          32609.53,         132704.84,         132704.84,         132704.84,
+5308,218810113,CONTRIBUICAO SINDICAL-IPMP,1,,,              0.00,            116.22,            116.22,            116.22,            116.22,
+5303,218810115,EMPRESTIMO C.E.F - CAMARA MUNICIPAL,1,,,           9390.32,           3123.02,          12513.34,          12513.34,          12513.34,
+5306,218810115,EMPRESTIMO NOSSA CAIXA - CAMARA MUNICIPAL,1,,,          10359.51,           4822.80,          15182.31,          15182.31,          15182.31,
+5315,218810115,EMPRESTIMO BANCO DO BRASIL - I.P.M.P.,1,,,          40331.61,          13712.20,          54043.81,          54043.81,          54043.81,
+5316,218810115,EMPRESTIMO C.E.F. - I.P.M.P.,1,,,          35281.24,          12301.71,          47582.95,          47582.95,          47582.95,
+5317,218810115,EMPRESTIMO BRADESCO - I.P.M.P.,1,,,          13017.30,           4339.10,          17356.40,          17356.40,          17356.40,
+5325,218810115,EMPRESTIMO SANTANDER,1,,,         267434.35,          93493.83,         360928.18,         360928.18,         360928.18,
+5327,218810115,EMPRESTIMO CEF,1,,,         188782.55,          62260.89,         251043.44,         251043.44,         251043.44,
+5328,218810115,EMPRESTIMO NOSSA CAIXA,1,,,          10152.07,           2922.94,          13075.01,          13075.01,          13075.01,
+5305,218810199,ANTECIPACAO VALE GAS,1,,,          11766.00,           3922.00,          15688.00,          15688.00,          15688.00,
+5309,218810199,PIS/COFINS/CONTRIB. SOCIAL-CAMARA,1,,,            360.92,            167.14,            528.06,            528.06,            528.06,
+5311,218810199,CONTRIB. SOCIAL S/ LUCRO LIQUIDO,1,,,             91.58,             45.79,            137.37,            137.37,            137.37,
+5313,218810199,JUROS DE APLICACAO,1,,,           1414.50,            664.39,           2078.89,           2078.89,           2078.89,
+5318,218810199,DROGABELLA,1,,,           3358.61,           1421.13,           4779.74,           4779.74,           4779.74,
+5324,218810199,CAPEMI,1,,,            336.93,            113.46,            450.39,            450.39,            450.39,
+5330,218810199,FARMACONDE,1,,,           8771.97,           3959.68,          12731.65,          12731.65,          12731.65,
+5401,218810199,HONORARIOS,1,,,           2210.80,            370.54,           2581.34,           2581.34,           2581.34,
+5501,351120200,REPASSE FUNDACAO CULTURAL,1,,,         292500.00,          97500.00,         390000.00,         390000.00,         390000.00,
+5501,451120200,DUODECIMO CAMARA MUNICIPAL,1,,,         553050.00,         184350.00,         737400.00,         737400.00,         737400.00,
+,,,,,,,,,,,
+,TOTAL EXTRAORCAMENTARIO,,,,,        2135570.48,         730319.02,        2865889.50,,,
+,TOTAL DA RECEITA,,,,,       20414107.55,        6298663.57,       26712771.12,,,
+,SALDO FINANCEIRO DO EXERCICIO ANTERIOR,,,,,,,,,,
+,Conta Movimento,,,,,,,        1846815.73,,,
+,Conta Vinculada,,,,,,,        1896666.99,,,
+,Caixa/Bancos/Autarquias,,,,,,,       50892995.57,,,
+,,,,,,,,,,,
+,TOTAL FINANCEIRO,,,,,,,       54636478.29,,,
+,,,,,,,,,,,
+,TOTAL DO BALANCETE,,,,,,,       81349249.41,,,
